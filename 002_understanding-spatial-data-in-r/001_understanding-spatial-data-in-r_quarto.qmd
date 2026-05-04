@@ -1,0 +1,244 @@
+---
+title: Your mapping cockpit
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+    embed-resources: true
+---
+
+```{r}
+#| label: load-r-libraries
+#| message: false
+library(sf)
+library(rnaturalearth)
+library(tidyverse)
+```
+
+# Learning objectives
+
+- Explain the basic difference between vector (POINT, LINESTRING, POLYGON)
+- Recognize the main geometry types used in vector data: 
+
+  - POINT
+  - LINESTRING
+  - POLYGON
+
+- Describe what and `sf` object is in R and identify its 2 main parts: 
+
+  - `attributes`
+  - `geometry`
+
+- Explain why Coordinate Reference Systems (CRS) are essential
+
+- Understand the difference between a **Datum** and a **Projection** within CRS
+
+- Use online resources (like [epsg.io](https://epsg.io/)) to find information about specific CRS codes (EPSG)
+
+- Recognize common spatial data file formats:
+
+  - Shapefile
+  - GeoJSON
+  - GeoPackage
+  - Geo-TIFF
+
+- Use `sf` functions (`st_geometry`, `st_drop_geometry`, `st_crs`) to inspect the components of spatial data loaded in R
+
+# Concepts: the building blocks of digital maps
+
+## 2 flavors of spatial data: vector vs raster
+
+### Vector data: drawing with precision
+
+- **Points**: single coordinate pairs (x, y or lon/lat) representing specific locations
+
+  - Examples: Cities, individual trees, customer addresses (`sf` geometry: POINT/MULTIPOINT)
+
+- **Linestrings**: sequences of connected coordinate points forming a line.
+
+   - Examples: Rivers, roads, railways, hiking trails (`sf` geometry: LINESTRING/MULTILINESTRING)
+
+- **Polygons**: Closed sequences of connected points defining an area
+
+   - Examples: Country outlines, state boundaries, lake shapes, building footprints (`sf` geometry: POLYGON / MULTIPOLYGON)
+
+### Raster Data: the world as a grid
+
+- Think of raster data like a digital photograph made of colored squares (pixels)
+
+   - Each pixel covers a specific geographic area and stores a value (e.g., elevations m, temperature °C or a categorical land-cover code)
+
+   - Standard tool in R: `terra`
+
+### Why does this difference matter?
+
+Knowing if your data is vector or raster helps you choose the right R package: `sf` or `terra`, the right analysis or visualization techniques:
+
+- Want to map road networks precisely? `sf`
+- What to show elevation across a landscape? `terra`
+- Want to calculate the length of a river? `sf`
+- Want to analyze satellite imagery? `terra`
+- What to show population density withing countries? `sf` polygons (a choropleth map) or raster density grids
+
+### Meet `sf` objects: your spatial data frames
+
+What is an `sf` object?
+
+- **Attribute table**: has regular columns just like a normal data frame, holding information about each feature (e.g., country name, population, city type, road name).
+
+- **Geometry column**: one special column, usually named geometry, that holds the actual spatial shape (POINT, LINESTRING or POLYGON coordinates)
+
+It beautifully combines your regular data table with its geographic representation
+
+### Coordinate reference systems (crs) revisited
+
+**The core problem**:
+
+- Earth = roundish
+- Map/Screen = flat
+- How do we represent locations accurately?
+
+#### Datum
+
+How do we mathematically model the Earth's imperfect shape?
+
+- The earth is not perfect sphere: it bulges at the equator and is slightly squashed (an ellipsoid or spheroid). Different datums use slightly different ellipsoids that best fit the Earth's shape either globally or for a specific region
+
+- A datum also defines an origin point (like the Earth's center) and orientation
+
+#### Projection
+
+How do we mathematically translate coordinates from the curved datum surface onto a flat map?
+
+- This a *"flattening the orang peel"* part. All projections introduce some kind of distortion
+
+  - You can not perfectly flatten a curved surface without stretching, tearing or squashing something
+
+- Example of different projections:
+
+  - **Conformal projections** (e.g., Mercator, Lambert Conformal Conic): Preserve local shapes and angles correctly
+
+    They distort areas, especially far from the center line
+
+  - **Equal-area projections** (e.g., Albers Equal Area, Mollweide, Eckert IV): preserve area correctly across the map.
+
+    They distort shapes, angles and distances
+
+  - **Equidistant projections**: preserve distance correctly from 1 or 2 central point.
+
+    Distor shape and area elsewhere
+  
+  - **Azimuthal prjections**: preserve direction (azimuth) correctly from a cental point
+
+    **Pending**
+
+#### Why CRS is critical
+
+- Alignment: data layers must be in the same CRS to overlay correctly on a map
+
+- Analysis: calculations like distance or are are only meaningful if done in an appropaite projected CRS that uses linear units (like meters of feet) and minimizes the relevant distortion for your area and task
+
+- Appearance: the choice of projection significantly affects how your final map looks, especially for larger areas
+
+#### Identifying CRSs: EPSG Codes
+
+CRSs are often identified by unique codes. Most commonsystem is the EPSG code:
+
+- EPSG: 4326
+- EPSG: 3857
+- UTM Zones
+- National/Continental Grids
+
+How do you find the right EPSG code or details about one?
+
+- Online resource: [epsg.io](https://epsg.io/). Search by:
+
+  - EPSG code
+  - Geographic location
+  - Projection name
+
+### Common spatial file formats
+
+- Shapefile (.shp, etc.)
+
+  - Vector type
+  - Typical extensions `.shp` plus others
+  - Very common, especially from government sources or older GIS sortware
+  - Bit catch: it is not a single file. You need at least the `.shp` (geometry), `.shx` (index) and `.dbf` (attribute table) files together in the same folder. The `.prj` file contains the crucial CRS information, if it is missing, R would not know the projection.
+
+- GeoJSON (.geojson)
+
+  - Modern, text-based format, great for web maps and exchanging simpler vector data
+
+  - Stores everything (geometry, attributes, CRS) in one human-readable file
+
+- GeoPackage (.gpkg)
+
+  - The modern, open standard designed to replace Shapefiles. Based on a simple database (SQLite)
+
+  - Best Feature: Stores everything, multiple vector layers, raster layers, attributes, CRS in a single, robust file.
+
+- GeoTIFF (.tif):
+
+  - The standard for raster data. Looks like an image file but has extra geographic metadata (CRS, extent) embedded.
+
+- CVS / Text files (.csv, .txt):
+
+  - Often used for lists of locations with latitude/longitude columns
+  - These files themselves don't inherently store CRS info
+
+# Hands-on: exploring spatial data objects in R
+
+## Import
+
+```{r}
+world_countries <- ne_countries(
+  scale = "medium",
+  returnclass = "sf"
+)
+
+world_cities <- ne_download(
+  scale = "medium",
+  type = "populated_places",
+  category = "cultural",
+  returnclass = "sf"
+)
+```
+
+## CRS transform
+
+```{r}
+target_crs_robinson <- "ESRI:54030"
+world_countries_robinson <- world_countries |>
+  st_transform(
+    crs = target_crs_robinson
+  )
+```
+
+## Visualization
+
+```{r}
+plot_original <- ggplot() +
+  geom_sf(
+    data = world_countries,
+    linewidth = 0.5
+  ) +
+  labs(
+    title = "Original (EPSG:4326)"
+  ) +
+  theme_minimal()
+
+plot_transformed <- ggplot() +
+  geom_sf(
+    data = world_countries_robinson,
+    linewidth = 0.2
+  ) +
+  labs(
+    title = "Transformed (Robinson)"
+  ) +
+  theme_minimal()
+
+plot_original
+plot_transformed
+```
