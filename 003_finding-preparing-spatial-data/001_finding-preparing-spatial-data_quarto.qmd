@@ -1,0 +1,9 @@
+---
+title: Finding and preparing spatial data
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+    embed-resources: true
+---
