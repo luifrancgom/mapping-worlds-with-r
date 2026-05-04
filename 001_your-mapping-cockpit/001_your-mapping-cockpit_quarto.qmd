@@ -1,0 +1,81 @@
+---
+title: Your mapping cockpit
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+    embed-resources: true
+---
+
+```{r}
+#| label: load-libraries-r
+library(sf)
+library(rnaturalearth)
+```
+
+# Sneak peek: coordinate reference systems (CSR)
+
+**The problem**: the earth is roundish, but our computer screens and maps are flat. A CRS is a set of rules defining:
+
+- How the Earth's shape is modeled (the Datum, e.g., WGS84 usde by GPS)
+- How locations from the curved model are projected onto a flat map (the projection, e.g., Mercator, UTM, Albers)
+
+**Why it matters**: if 2 datasets use different rules (different CRSs), their coordinates mean differernt things, and the won't align geographically!
+
+**The solution**: we need to make sure all data we want to combine or plot together uses the same CRS. We often transform data from one CRS to another.
+
+**Checking CRS with `sf`**
+
+The `sf` package makes this easy. When you load spatial data into an `sf` object, you can check its CRS rules.
+
+# Import data
+
+```{r}
+world_sf <- ne_countries(
+  scale = "medium",
+  returnclass = "sf"
+)
+```
+
+# CRS
+
+## Check CRS
+
+```{r}
+crs_info <- st_crs(world_sf)
+crs_info
+```
+
+## Transform
+
+```{r}
+target_crs_robinson <- "ESRI:54030"
+world_robinson_sf <- world_sf |>
+  st_transform(crs = target_crs_robinson)
+crs_info_robinson <- st_crs(world_robinson_sf)
+crs_info_robinson
+```
+
+# Visualization
+
+```{r}
+par(mfrow = c(1, 2))
+
+plot(
+  st_geometry(world_sf),
+  main = "Original (EPSG:4326)",
+  key.pos = NULL, # Do not draw a legend
+  reset = FALSE,
+  border = "grey"
+)
+plot(
+  st_geometry(world_robinson_sf),
+  main = "Transformed (Robinson)",
+  key.pos = NULL,
+  reset = FALSE,
+  border = "blue"
+)
+
+par(mfrow = c(1, 1))
+```
