@@ -1,0 +1,2938 @@
+departamento_codigo,departamento_nombre,ano,area_geografica,poblacion_total
+05,Antioquia,2018,Cabecera Municipal,4972962
+05,Antioquia,2018,Centros Poblados y Rural Disperso,1434187
+05,Antioquia,2018,Total,6407149
+08,Atlántico,2018,Cabecera Municipal,2404819
+08,Atlántico,2018,Centros Poblados y Rural Disperso,130687
+08,Atlántico,2018,Total,2535506
+11,"Bogotá, D.C.",2018,Cabecera Municipal,7366187
+11,"Bogotá, D.C.",2018,Centros Poblados y Rural Disperso,24869
+11,"Bogotá, D.C.",2018,Total,7391056
+13,Bolívar,2018,Cabecera Municipal,1549072
+13,Bolívar,2018,Centros Poblados y Rural Disperso,521011
+13,Bolívar,2018,Total,2070083
+15,Boyacá,2018,Cabecera Municipal,715086
+15,Boyacá,2018,Centros Poblados y Rural Disperso,503669
+15,Boyacá,2018,Total,1218755
+17,Caldas,2018,Cabecera Municipal,740866
+17,Caldas,2018,Centros Poblados y Rural Disperso,257383
+17,Caldas,2018,Total,998249
+18,Caquetá,2018,Cabecera Municipal,258773
+18,Caquetá,2018,Centros Poblados y Rural Disperso,143312
+18,Caquetá,2018,Total,402085
+19,Cauca,2018,Cabecera Municipal,545909
+19,Cauca,2018,Centros Poblados y Rural Disperso,918593
+19,Cauca,2018,Total,1464502
+20,Cesar,2018,Cabecera Municipal,903376
+20,Cesar,2018,Centros Poblados y Rural Disperso,297213
+20,Cesar,2018,Total,1200589
+23,Córdoba,2018,Cabecera Municipal,937313
+23,Córdoba,2018,Centros Poblados y Rural Disperso,847441
+23,Córdoba,2018,Total,1784754
+25,Cundinamarca,2018,Cabecera Municipal,2093005
+25,Cundinamarca,2018,Centros Poblados y Rural Disperso,846835
+25,Cundinamarca,2018,Total,2939840
+27,Chocó,2018,Cabecera Municipal,243180
+27,Chocó,2018,Centros Poblados y Rural Disperso,291627
+27,Chocó,2018,Total,534807
+41,Huila,2018,Cabecera Municipal,669696
+41,Huila,2018,Centros Poblados y Rural Disperso,430668
+41,Huila,2018,Total,1100364
+44,La Guajira,2018,Cabecera Municipal,410637
+44,La Guajira,2018,Centros Poblados y Rural Disperso,469915
+44,La Guajira,2018,Total,880552
+47,Magdalena,2018,Cabecera Municipal,938356
+47,Magdalena,2018,Centros Poblados y Rural Disperso,403441
+47,Magdalena,2018,Total,1341797
+50,Meta,2018,Cabecera Municipal,795172
+50,Meta,2018,Centros Poblados y Rural Disperso,244529
+50,Meta,2018,Total,1039701
+52,Nariño,2018,Cabecera Municipal,716592
+52,Nariño,2018,Centros Poblados y Rural Disperso,914006
+52,Nariño,2018,Total,1630598
+54,Norte de Santander,2018,Cabecera Municipal,1173733
+54,Norte de Santander,2018,Centros Poblados y Rural Disperso,317987
+54,Norte de Santander,2018,Total,1491720
+63,Quindío,2018,Cabecera Municipal,471926
+63,Quindío,2018,Centros Poblados y Rural Disperso,67992
+63,Quindío,2018,Total,539918
+66,Risaralda,2018,Cabecera Municipal,736147
+66,Risaralda,2018,Centros Poblados y Rural Disperso,207246
+66,Risaralda,2018,Total,943393
+68,Santander,2018,Cabecera Municipal,1656425
+68,Santander,2018,Centros Poblados y Rural Disperso,527707
+68,Santander,2018,Total,2184132
+70,Sucre,2018,Cabecera Municipal,569076
+70,Sucre,2018,Centros Poblados y Rural Disperso,335774
+70,Sucre,2018,Total,904850
+73,Tolima,2018,Cabecera Municipal,907504
+73,Tolima,2018,Centros Poblados y Rural Disperso,422680
+73,Tolima,2018,Total,1330184
+76,Valle del Cauca,2018,Cabecera Municipal,3809546
+76,Valle del Cauca,2018,Centros Poblados y Rural Disperso,666327
+76,Valle del Cauca,2018,Total,4475873
+81,Arauca,2018,Cabecera Municipal,172646
+81,Arauca,2018,Centros Poblados y Rural Disperso,89531
+81,Arauca,2018,Total,262177
+85,Casanare,2018,Cabecera Municipal,295439
+85,Casanare,2018,Centros Poblados y Rural Disperso,125072
+85,Casanare,2018,Total,420511
+86,Putumayo,2018,Cabecera Municipal,174715
+86,Putumayo,2018,Centros Poblados y Rural Disperso,173452
+86,Putumayo,2018,Total,348167
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2018,Cabecera Municipal,44900
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2018,Centros Poblados y Rural Disperso,16384
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2018,Total,61284
+91,Amazonas,2018,Cabecera Municipal,37117
+91,Amazonas,2018,Centros Poblados y Rural Disperso,39456
+91,Amazonas,2018,Total,76573
+94,Guainía,2018,Cabecera Municipal,20322
+94,Guainía,2018,Centros Poblados y Rural Disperso,27759
+94,Guainía,2018,Total,48081
+95,Guaviare,2018,Cabecera Municipal,46066
+95,Guaviare,2018,Centros Poblados y Rural Disperso,36702
+95,Guaviare,2018,Total,82768
+97,Vaupés,2018,Cabecera Municipal,12110
+97,Vaupés,2018,Centros Poblados y Rural Disperso,28664
+97,Vaupés,2018,Total,40774
+99,Vichada,2018,Cabecera Municipal,25848
+99,Vichada,2018,Centros Poblados y Rural Disperso,81854
+99,Vichada,2018,Total,107702
+05,Antioquia,2019,Cabecera Municipal,5075565
+05,Antioquia,2019,Centros Poblados y Rural Disperso,1442505
+05,Antioquia,2019,Total,6518070
+08,Atlántico,2019,Cabecera Municipal,2475498
+08,Atlántico,2019,Centros Poblados y Rural Disperso,133410
+08,Atlántico,2019,Total,2608908
+11,"Bogotá, D.C.",2019,Cabecera Municipal,7507403
+11,"Bogotá, D.C.",2019,Centros Poblados y Rural Disperso,25799
+11,"Bogotá, D.C.",2019,Total,7533202
+13,Bolívar,2019,Cabecera Municipal,1574683
+13,Bolívar,2019,Centros Poblados y Rural Disperso,533729
+13,Bolívar,2019,Total,2108412
+15,Boyacá,2019,Cabecera Municipal,730718
+15,Boyacá,2019,Centros Poblados y Rural Disperso,502712
+15,Boyacá,2019,Total,1233430
+17,Caldas,2019,Cabecera Municipal,754261
+17,Caldas,2019,Centros Poblados y Rural Disperso,257325
+17,Caldas,2019,Total,1011586
+18,Caquetá,2019,Cabecera Municipal,262363
+18,Caquetá,2019,Centros Poblados y Rural Disperso,143748
+18,Caquetá,2019,Total,406111
+19,Cauca,2019,Cabecera Municipal,552173
+19,Cauca,2019,Centros Poblados y Rural Disperso,935204
+19,Cauca,2019,Total,1487377
+20,Cesar,2019,Cabecera Municipal,939403
+20,Cesar,2019,Centros Poblados y Rural Disperso,311772
+20,Cesar,2019,Total,1251175
+23,Córdoba,2019,Cabecera Municipal,954382
+23,Córdoba,2019,Centros Poblados y Rural Disperso,866857
+23,Córdoba,2019,Total,1821239
+25,Cundinamarca,2019,Cabecera Municipal,2191313
+25,Cundinamarca,2019,Centros Poblados y Rural Disperso,861008
+25,Cundinamarca,2019,Total,3052321
+27,Chocó,2019,Cabecera Municipal,245821
+27,Chocó,2019,Centros Poblados y Rural Disperso,299499
+27,Chocó,2019,Total,545320
+41,Huila,2019,Cabecera Municipal,680476
+41,Huila,2019,Centros Poblados y Rural Disperso,437310
+41,Huila,2019,Total,1117786
+44,La Guajira,2019,Cabecera Municipal,438015
+44,La Guajira,2019,Centros Poblados y Rural Disperso,480047
+44,La Guajira,2019,Total,918062
+47,Magdalena,2019,Cabecera Municipal,963053
+47,Magdalena,2019,Centros Poblados y Rural Disperso,421009
+47,Magdalena,2019,Total,1384062
+50,Meta,2019,Cabecera Municipal,810329
+50,Meta,2019,Centros Poblados y Rural Disperso,252026
+50,Meta,2019,Total,1062355
+52,Nariño,2019,Cabecera Municipal,723089
+52,Nariño,2019,Centros Poblados y Rural Disperso,922619
+52,Nariño,2019,Total,1645708
+54,Norte de Santander,2019,Cabecera Municipal,1217266
+54,Norte de Santander,2019,Centros Poblados y Rural Disperso,328076
+54,Norte de Santander,2019,Total,1545342
+63,Quindío,2019,Cabecera Municipal,475871
+63,Quindío,2019,Centros Poblados y Rural Disperso,68238
+63,Quindío,2019,Total,544109
+66,Risaralda,2019,Cabecera Municipal,749277
+66,Risaralda,2019,Centros Poblados y Rural Disperso,206935
+66,Risaralda,2019,Total,956212
+68,Santander,2019,Cabecera Municipal,1695678
+68,Santander,2019,Centros Poblados y Rural Disperso,536606
+68,Santander,2019,Total,2232284
+70,Sucre,2019,Cabecera Municipal,583260
+70,Sucre,2019,Centros Poblados y Rural Disperso,345102
+70,Sucre,2019,Total,928362
+73,Tolima,2019,Cabecera Municipal,914414
+73,Tolima,2019,Centros Poblados y Rural Disperso,426724
+73,Tolima,2019,Total,1341138
+76,Valle del Cauca,2019,Cabecera Municipal,3857650
+76,Valle del Cauca,2019,Centros Poblados y Rural Disperso,676281
+76,Valle del Cauca,2019,Total,4533931
+81,Arauca,2019,Cabecera Municipal,174562
+81,Arauca,2019,Centros Poblados y Rural Disperso,91469
+81,Arauca,2019,Total,266031
+85,Casanare,2019,Cabecera Municipal,304338
+85,Casanare,2019,Centros Poblados y Rural Disperso,126211
+85,Casanare,2019,Total,430549
+86,Putumayo,2019,Cabecera Municipal,178468
+86,Putumayo,2019,Centros Poblados y Rural Disperso,176649
+86,Putumayo,2019,Total,355117
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2019,Cabecera Municipal,45050
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2019,Centros Poblados y Rural Disperso,16629
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2019,Total,61679
+91,Amazonas,2019,Cabecera Municipal,37915
+91,Amazonas,2019,Centros Poblados y Rural Disperso,40150
+91,Amazonas,2019,Total,78065
+94,Guainía,2019,Cabecera Municipal,21296
+94,Guainía,2019,Centros Poblados y Rural Disperso,28652
+94,Guainía,2019,Total,49948
+95,Guaviare,2019,Cabecera Municipal,46282
+95,Guaviare,2019,Centros Poblados y Rural Disperso,36856
+95,Guaviare,2019,Total,83138
+97,Vaupés,2019,Cabecera Municipal,12065
+97,Vaupés,2019,Centros Poblados y Rural Disperso,29383
+97,Vaupés,2019,Total,41448
+99,Vichada,2019,Cabecera Municipal,27352
+99,Vichada,2019,Centros Poblados y Rural Disperso,86697
+99,Vichada,2019,Total,114049
+05,Antioquia,2020,Cabecera Municipal,5189381
+05,Antioquia,2020,Centros Poblados y Rural Disperso,1452691
+05,Antioquia,2020,Total,6642072
+08,Atlántico,2020,Cabecera Municipal,2556800
+08,Atlántico,2020,Centros Poblados y Rural Disperso,136588
+08,Atlántico,2020,Total,2693388
+11,"Bogotá, D.C.",2020,Cabecera Municipal,7690578
+11,"Bogotá, D.C.",2020,Centros Poblados y Rural Disperso,26986
+11,"Bogotá, D.C.",2020,Total,7717564
+13,Bolívar,2020,Cabecera Municipal,1603626
+13,Bolívar,2020,Centros Poblados y Rural Disperso,547835
+13,Bolívar,2020,Total,2151461
+15,Boyacá,2020,Cabecera Municipal,742796
+15,Boyacá,2020,Centros Poblados y Rural Disperso,506181
+15,Boyacá,2020,Total,1248977
+17,Caldas,2020,Cabecera Municipal,768323
+17,Caldas,2020,Centros Poblados y Rural Disperso,257325
+17,Caldas,2020,Total,1025648
+18,Caquetá,2020,Cabecera Municipal,266465
+18,Caquetá,2020,Centros Poblados y Rural Disperso,144102
+18,Caquetá,2020,Total,410567
+19,Cauca,2020,Cabecera Municipal,558754
+19,Cauca,2020,Centros Poblados y Rural Disperso,952150
+19,Cauca,2020,Total,1510904
+20,Cesar,2020,Cabecera Municipal,979793
+20,Cesar,2020,Centros Poblados y Rural Disperso,327970
+20,Cesar,2020,Total,1307763
+23,Córdoba,2020,Cabecera Municipal,972571
+23,Córdoba,2020,Centros Poblados y Rural Disperso,887239
+23,Córdoba,2020,Total,1859810
+25,Cundinamarca,2020,Cabecera Municipal,2294117
+25,Cundinamarca,2020,Centros Poblados y Rural Disperso,863825
+25,Cundinamarca,2020,Total,3157942
+27,Chocó,2020,Cabecera Municipal,247974
+27,Chocó,2020,Centros Poblados y Rural Disperso,307813
+27,Chocó,2020,Total,555787
+41,Huila,2020,Cabecera Municipal,691416
+41,Huila,2020,Centros Poblados y Rural Disperso,443980
+41,Huila,2020,Total,1135396
+44,La Guajira,2020,Cabecera Municipal,467515
+44,La Guajira,2020,Centros Poblados y Rural Disperso,492314
+44,La Guajira,2020,Total,959829
+47,Magdalena,2020,Cabecera Municipal,992314
+47,Magdalena,2020,Centros Poblados y Rural Disperso,440378
+47,Magdalena,2020,Total,1432692
+50,Meta,2020,Cabecera Municipal,827226
+50,Meta,2020,Centros Poblados y Rural Disperso,259970
+50,Meta,2020,Total,1087196
+52,Nariño,2020,Cabecera Municipal,729725
+52,Nariño,2020,Centros Poblados y Rural Disperso,931319
+52,Nariño,2020,Total,1661044
+54,Norte de Santander,2020,Cabecera Municipal,1268401
+54,Norte de Santander,2020,Centros Poblados y Rural Disperso,339516
+54,Norte de Santander,2020,Total,1607917
+63,Quindío,2020,Cabecera Municipal,480109
+63,Quindío,2020,Centros Poblados y Rural Disperso,68550
+63,Quindío,2020,Total,548659
+66,Risaralda,2020,Cabecera Municipal,763034
+66,Risaralda,2020,Centros Poblados y Rural Disperso,206767
+66,Risaralda,2020,Total,969801
+68,Santander,2020,Cabecera Municipal,1739812
+68,Santander,2020,Centros Poblados y Rural Disperso,547994
+68,Santander,2020,Total,2287806
+70,Sucre,2020,Cabecera Municipal,598607
+70,Sucre,2020,Centros Poblados y Rural Disperso,355047
+70,Sucre,2020,Total,953654
+73,Tolima,2020,Cabecera Municipal,921716
+73,Tolima,2020,Centros Poblados y Rural Disperso,431057
+73,Tolima,2020,Total,1352773
+76,Valle del Cauca,2020,Cabecera Municipal,3911218
+76,Valle del Cauca,2020,Centros Poblados y Rural Disperso,687100
+76,Valle del Cauca,2020,Total,4598318
+81,Arauca,2020,Cabecera Municipal,176896
+81,Arauca,2020,Centros Poblados y Rural Disperso,93599
+81,Arauca,2020,Total,270495
+85,Casanare,2020,Cabecera Municipal,313868
+85,Casanare,2020,Centros Poblados y Rural Disperso,127642
+85,Casanare,2020,Total,441510
+86,Putumayo,2020,Cabecera Municipal,182367
+86,Putumayo,2020,Centros Poblados y Rural Disperso,179795
+86,Putumayo,2020,Total,362162
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2020,Cabecera Municipal,45276
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2020,Centros Poblados y Rural Disperso,16851
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2020,Total,62127
+91,Amazonas,2020,Cabecera Municipal,38781
+91,Amazonas,2020,Centros Poblados y Rural Disperso,40802
+91,Amazonas,2020,Total,79583
+94,Guainía,2020,Cabecera Municipal,23366
+94,Guainía,2020,Centros Poblados y Rural Disperso,28406
+94,Guainía,2020,Total,51772
+95,Guaviare,2020,Cabecera Municipal,46582
+95,Guaviare,2020,Centros Poblados y Rural Disperso,36992
+95,Guaviare,2020,Total,83574
+97,Vaupés,2020,Cabecera Municipal,12070
+97,Vaupés,2020,Centros Poblados y Rural Disperso,30065
+97,Vaupés,2020,Total,42135
+99,Vichada,2020,Cabecera Municipal,28885
+99,Vichada,2020,Centros Poblados y Rural Disperso,91579
+99,Vichada,2020,Total,120464
+05,Antioquia,2021,Cabecera Municipal,5262054
+05,Antioquia,2021,Centros Poblados y Rural Disperso,1459086
+05,Antioquia,2021,Total,6721140
+08,Atlántico,2021,Cabecera Municipal,2602268
+08,Atlántico,2021,Centros Poblados y Rural Disperso,139028
+08,Atlántico,2021,Total,2741296
+11,"Bogotá, D.C.",2021,Cabecera Municipal,7777174
+11,"Bogotá, D.C.",2021,Centros Poblados y Rural Disperso,27746
+11,"Bogotá, D.C.",2021,Total,7804920
+13,Bolívar,2021,Cabecera Municipal,1620250
+13,Bolívar,2021,Centros Poblados y Rural Disperso,557102
+13,Bolívar,2021,Total,2177352
+15,Boyacá,2021,Cabecera Municipal,753770
+15,Boyacá,2021,Centros Poblados y Rural Disperso,506457
+15,Boyacá,2021,Total,1260227
+17,Caldas,2021,Cabecera Municipal,779406
+17,Caldas,2021,Centros Poblados y Rural Disperso,255800
+17,Caldas,2021,Total,1035206
+18,Caquetá,2021,Cabecera Municipal,269688
+18,Caquetá,2021,Centros Poblados y Rural Disperso,145259
+18,Caquetá,2021,Total,414947
+19,Cauca,2021,Cabecera Municipal,564439
+19,Cauca,2021,Centros Poblados y Rural Disperso,967495
+19,Cauca,2021,Total,1531934
+20,Cesar,2021,Cabecera Municipal,1010095
+20,Cesar,2021,Centros Poblados y Rural Disperso,337351
+20,Cesar,2021,Total,1347446
+23,Córdoba,2021,Cabecera Municipal,989322
+23,Córdoba,2021,Centros Poblados y Rural Disperso,901540
+23,Córdoba,2021,Total,1890862
+25,Cundinamarca,2021,Cabecera Municipal,2377148
+25,Cundinamarca,2021,Centros Poblados y Rural Disperso,865520
+25,Cundinamarca,2021,Total,3242668
+27,Chocó,2021,Cabecera Municipal,250165
+27,Chocó,2021,Centros Poblados y Rural Disperso,314217
+27,Chocó,2021,Total,564382
+41,Huila,2021,Cabecera Municipal,701626
+41,Huila,2021,Centros Poblados y Rural Disperso,449856
+41,Huila,2021,Total,1151482
+44,La Guajira,2021,Cabecera Municipal,483163
+44,La Guajira,2021,Centros Poblados y Rural Disperso,503410
+44,La Guajira,2021,Total,986573
+47,Magdalena,2021,Cabecera Municipal,1012157
+47,Magdalena,2021,Centros Poblados y Rural Disperso,450966
+47,Magdalena,2021,Total,1463123
+50,Meta,2021,Cabecera Municipal,839518
+50,Meta,2021,Centros Poblados y Rural Disperso,265041
+50,Meta,2021,Total,1104559
+52,Nariño,2021,Cabecera Municipal,735373
+52,Nariño,2021,Centros Poblados y Rural Disperso,938212
+52,Nariño,2021,Total,1673585
+54,Norte de Santander,2021,Cabecera Municipal,1293019
+54,Norte de Santander,2021,Centros Poblados y Rural Disperso,347251
+54,Norte de Santander,2021,Total,1640270
+63,Quindío,2021,Cabecera Municipal,483378
+63,Quindío,2021,Centros Poblados y Rural Disperso,69193
+63,Quindío,2021,Total,552571
+66,Risaralda,2021,Cabecera Municipal,773035
+66,Risaralda,2021,Centros Poblados y Rural Disperso,206948
+66,Risaralda,2021,Total,979983
+68,Santander,2021,Cabecera Municipal,1767350
+68,Santander,2021,Centros Poblados y Rural Disperso,552208
+68,Santander,2021,Total,2319558
+70,Sucre,2021,Cabecera Municipal,610941
+70,Sucre,2021,Centros Poblados y Rural Disperso,361763
+70,Sucre,2021,Total,972704
+73,Tolima,2021,Cabecera Municipal,929119
+73,Tolima,2021,Centros Poblados y Rural Disperso,432628
+73,Tolima,2021,Total,1361747
+76,Valle del Cauca,2021,Cabecera Municipal,3942663
+76,Valle del Cauca,2021,Centros Poblados y Rural Disperso,693838
+76,Valle del Cauca,2021,Total,4636501
+81,Arauca,2021,Cabecera Municipal,178277
+81,Arauca,2021,Centros Poblados y Rural Disperso,94860
+81,Arauca,2021,Total,273137
+85,Casanare,2021,Cabecera Municipal,320674
+85,Casanare,2021,Centros Poblados y Rural Disperso,128704
+85,Casanare,2021,Total,449378
+86,Putumayo,2021,Cabecera Municipal,186224
+86,Putumayo,2021,Centros Poblados y Rural Disperso,182199
+86,Putumayo,2021,Total,368423
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2021,Cabecera Municipal,45757
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2021,Centros Poblados y Rural Disperso,16816
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2021,Total,62573
+91,Amazonas,2021,Cabecera Municipal,39692
+91,Amazonas,2021,Centros Poblados y Rural Disperso,41173
+91,Amazonas,2021,Total,80865
+94,Guainía,2021,Cabecera Municipal,24285
+94,Guainía,2021,Centros Poblados y Rural Disperso,29200
+94,Guainía,2021,Total,53485
+95,Guaviare,2021,Cabecera Municipal,46763
+95,Guaviare,2021,Centros Poblados y Rural Disperso,37122
+95,Guaviare,2021,Total,83885
+97,Vaupés,2021,Cabecera Municipal,12123
+97,Vaupés,2021,Centros Poblados y Rural Disperso,30518
+97,Vaupés,2021,Total,42641
+99,Vichada,2021,Cabecera Municipal,29455
+99,Vichada,2021,Centros Poblados y Rural Disperso,96759
+99,Vichada,2021,Total,126214
+05,Antioquia,2022,Cabecera Municipal,5315750
+05,Antioquia,2022,Centros Poblados y Rural Disperso,1461499
+05,Antioquia,2022,Total,6777249
+08,Atlántico,2022,Cabecera Municipal,2633270
+08,Atlántico,2022,Centros Poblados y Rural Disperso,140739
+08,Atlántico,2022,Total,2774009
+11,"Bogotá, D.C.",2022,Cabecera Municipal,7820740
+11,"Bogotá, D.C.",2022,Centros Poblados y Rural Disperso,28466
+11,"Bogotá, D.C.",2022,Total,7849206
+13,Bolívar,2022,Cabecera Municipal,1630981
+13,Bolívar,2022,Centros Poblados y Rural Disperso,564294
+13,Bolívar,2022,Total,2195275
+15,Boyacá,2022,Cabecera Municipal,762619
+15,Boyacá,2022,Centros Poblados y Rural Disperso,505748
+15,Boyacá,2022,Total,1268367
+17,Caldas,2022,Cabecera Municipal,787981
+17,Caldas,2022,Centros Poblados y Rural Disperso,253251
+17,Caldas,2022,Total,1041232
+18,Caquetá,2022,Cabecera Municipal,272442
+18,Caquetá,2022,Centros Poblados y Rural Disperso,146282
+18,Caquetá,2022,Total,418724
+19,Cauca,2022,Cabecera Municipal,568596
+19,Cauca,2022,Centros Poblados y Rural Disperso,981263
+19,Cauca,2022,Total,1549859
+20,Cesar,2022,Cabecera Municipal,1034519
+20,Cesar,2022,Centros Poblados y Rural Disperso,344760
+20,Cesar,2022,Total,1379279
+23,Córdoba,2022,Cabecera Municipal,1003942
+23,Córdoba,2022,Centros Poblados y Rural Disperso,913800
+23,Córdoba,2022,Total,1917742
+25,Cundinamarca,2022,Cabecera Municipal,2452698
+25,Cundinamarca,2022,Centros Poblados y Rural Disperso,863885
+25,Cundinamarca,2022,Total,3316583
+27,Chocó,2022,Cabecera Municipal,252119
+27,Chocó,2022,Centros Poblados y Rural Disperso,320139
+27,Chocó,2022,Total,572258
+41,Huila,2022,Cabecera Municipal,710993
+41,Huila,2022,Centros Poblados y Rural Disperso,455150
+41,Huila,2022,Total,1166143
+44,La Guajira,2022,Cabecera Municipal,496235
+44,La Guajira,2022,Centros Poblados y Rural Disperso,511345
+44,La Guajira,2022,Total,1007580
+47,Magdalena,2022,Cabecera Municipal,1026027
+47,Magdalena,2022,Centros Poblados y Rural Disperso,459367
+47,Magdalena,2022,Total,1485394
+50,Meta,2022,Cabecera Municipal,848957
+50,Meta,2022,Centros Poblados y Rural Disperso,269392
+50,Meta,2022,Total,1118349
+52,Nariño,2022,Cabecera Municipal,740268
+52,Nariño,2022,Centros Poblados y Rural Disperso,944014
+52,Nariño,2022,Total,1684282
+54,Norte de Santander,2022,Cabecera Municipal,1306715
+54,Norte de Santander,2022,Centros Poblados y Rural Disperso,353099
+54,Norte de Santander,2022,Total,1659814
+63,Quindío,2022,Cabecera Municipal,484980
+63,Quindío,2022,Centros Poblados y Rural Disperso,69601
+63,Quindío,2022,Total,554581
+66,Risaralda,2022,Cabecera Municipal,780476
+66,Risaralda,2022,Centros Poblados y Rural Disperso,206520
+66,Risaralda,2022,Total,986996
+68,Santander,2022,Cabecera Municipal,1787312
+68,Santander,2022,Centros Poblados y Rural Disperso,553746
+68,Santander,2022,Total,2341058
+70,Sucre,2022,Cabecera Municipal,621420
+70,Sucre,2022,Centros Poblados y Rural Disperso,367362
+70,Sucre,2022,Total,988782
+73,Tolima,2022,Cabecera Municipal,934698
+73,Tolima,2022,Centros Poblados y Rural Disperso,433647
+73,Tolima,2022,Total,1368345
+76,Valle del Cauca,2022,Cabecera Municipal,3960498
+76,Valle del Cauca,2022,Centros Poblados y Rural Disperso,698313
+76,Valle del Cauca,2022,Total,4658811
+81,Arauca,2022,Cabecera Municipal,178986
+81,Arauca,2022,Centros Poblados y Rural Disperso,95820
+81,Arauca,2022,Total,274806
+85,Casanare,2022,Cabecera Municipal,326367
+85,Casanare,2022,Centros Poblados y Rural Disperso,129248
+85,Casanare,2022,Total,455615
+86,Putumayo,2022,Cabecera Municipal,189953
+86,Putumayo,2022,Centros Poblados y Rural Disperso,184407
+86,Putumayo,2022,Total,374360
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2022,Cabecera Municipal,46123
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2022,Centros Poblados y Rural Disperso,16678
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2022,Total,62801
+91,Amazonas,2022,Cabecera Municipal,40517
+91,Amazonas,2022,Centros Poblados y Rural Disperso,41479
+91,Amazonas,2022,Total,81996
+94,Guainía,2022,Cabecera Municipal,25173
+94,Guainía,2022,Centros Poblados y Rural Disperso,29956
+94,Guainía,2022,Total,55129
+95,Guaviare,2022,Cabecera Municipal,46861
+95,Guaviare,2022,Centros Poblados y Rural Disperso,37246
+95,Guaviare,2022,Total,84107
+97,Vaupés,2022,Cabecera Municipal,12106
+97,Vaupés,2022,Centros Poblados y Rural Disperso,30903
+97,Vaupés,2022,Total,43009
+99,Vichada,2022,Cabecera Municipal,29913
+99,Vichada,2022,Centros Poblados y Rural Disperso,101911
+99,Vichada,2022,Total,131824
+05,Antioquia,2023,Cabecera Municipal,5363526
+05,Antioquia,2023,Centros Poblados y Rural Disperso,1462599
+05,Antioquia,2023,Total,6826125
+08,Atlántico,2023,Cabecera Municipal,2663066
+08,Atlántico,2023,Centros Poblados y Rural Disperso,142335
+08,Atlántico,2023,Total,2805401
+11,"Bogotá, D.C.",2023,Cabecera Municipal,7854783
+11,"Bogotá, D.C.",2023,Centros Poblados y Rural Disperso,29145
+11,"Bogotá, D.C.",2023,Total,7883928
+13,Bolívar,2023,Cabecera Municipal,1640242
+13,Bolívar,2023,Centros Poblados y Rural Disperso,570737
+13,Bolívar,2023,Total,2210979
+15,Boyacá,2023,Cabecera Municipal,770593
+15,Boyacá,2023,Centros Poblados y Rural Disperso,504693
+15,Boyacá,2023,Total,1275286
+17,Caldas,2023,Cabecera Municipal,794497
+17,Caldas,2023,Centros Poblados y Rural Disperso,250073
+17,Caldas,2023,Total,1044570
+18,Caquetá,2023,Cabecera Municipal,274985
+18,Caquetá,2023,Centros Poblados y Rural Disperso,147286
+18,Caquetá,2023,Total,422271
+19,Cauca,2023,Cabecera Municipal,571716
+19,Cauca,2023,Centros Poblados y Rural Disperso,994029
+19,Cauca,2023,Total,1565745
+20,Cesar,2023,Cabecera Municipal,1058250
+20,Cesar,2023,Centros Poblados y Rural Disperso,351897
+20,Cesar,2023,Total,1410147
+23,Córdoba,2023,Cabecera Municipal,1018202
+23,Córdoba,2023,Centros Poblados y Rural Disperso,925549
+23,Córdoba,2023,Total,1943751
+25,Cundinamarca,2023,Cabecera Municipal,2527581
+25,Cundinamarca,2023,Centros Poblados y Rural Disperso,860902
+25,Cundinamarca,2023,Total,3388483
+27,Chocó,2023,Cabecera Municipal,253706
+27,Chocó,2023,Centros Poblados y Rural Disperso,325736
+27,Chocó,2023,Total,579442
+41,Huila,2023,Cabecera Municipal,719797
+41,Huila,2023,Centros Poblados y Rural Disperso,460085
+41,Huila,2023,Total,1179882
+44,La Guajira,2023,Cabecera Municipal,509089
+44,La Guajira,2023,Centros Poblados y Rural Disperso,518825
+44,La Guajira,2023,Total,1027914
+47,Magdalena,2023,Cabecera Municipal,1038527
+47,Magdalena,2023,Centros Poblados y Rural Disperso,467500
+47,Magdalena,2023,Total,1506027
+50,Meta,2023,Cabecera Municipal,857479
+50,Meta,2023,Centros Poblados y Rural Disperso,273723
+50,Meta,2023,Total,1131202
+52,Nariño,2023,Cabecera Municipal,744875
+52,Nariño,2023,Centros Poblados y Rural Disperso,949283
+52,Nariño,2023,Total,1694158
+54,Norte de Santander,2023,Cabecera Municipal,1319330
+54,Norte de Santander,2023,Centros Poblados y Rural Disperso,358728
+54,Norte de Santander,2023,Total,1678058
+63,Quindío,2023,Cabecera Municipal,485246
+63,Quindío,2023,Centros Poblados y Rural Disperso,69874
+63,Quindío,2023,Total,555120
+66,Risaralda,2023,Cabecera Municipal,785873
+66,Risaralda,2023,Centros Poblados y Rural Disperso,205465
+66,Risaralda,2023,Total,991338
+68,Santander,2023,Cabecera Municipal,1805825
+68,Santander,2023,Centros Poblados y Rural Disperso,554742
+68,Santander,2023,Total,2360567
+70,Sucre,2023,Cabecera Municipal,631468
+70,Sucre,2023,Centros Poblados y Rural Disperso,372708
+70,Sucre,2023,Total,1004176
+73,Tolima,2023,Cabecera Municipal,939207
+73,Tolima,2023,Centros Poblados y Rural Disperso,434351
+73,Tolima,2023,Total,1373558
+76,Valle del Cauca,2023,Cabecera Municipal,3971894
+76,Valle del Cauca,2023,Centros Poblados y Rural Disperso,701501
+76,Valle del Cauca,2023,Total,4673395
+81,Arauca,2023,Cabecera Municipal,179537
+81,Arauca,2023,Centros Poblados y Rural Disperso,96703
+81,Arauca,2023,Total,276240
+85,Casanare,2023,Cabecera Municipal,331846
+85,Casanare,2023,Centros Poblados y Rural Disperso,129616
+85,Casanare,2023,Total,461462
+86,Putumayo,2023,Cabecera Municipal,193519
+86,Putumayo,2023,Centros Poblados y Rural Disperso,186402
+86,Putumayo,2023,Total,379921
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2023,Cabecera Municipal,46466
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2023,Centros Poblados y Rural Disperso,16541
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2023,Total,63007
+91,Amazonas,2023,Cabecera Municipal,41313
+91,Amazonas,2023,Centros Poblados y Rural Disperso,41774
+91,Amazonas,2023,Total,83087
+94,Guainía,2023,Cabecera Municipal,26025
+94,Guainía,2023,Centros Poblados y Rural Disperso,30672
+94,Guainía,2023,Total,56697
+95,Guaviare,2023,Cabecera Municipal,46934
+95,Guaviare,2023,Centros Poblados y Rural Disperso,37384
+95,Guaviare,2023,Total,84318
+97,Vaupés,2023,Cabecera Municipal,12066
+97,Vaupés,2023,Centros Poblados y Rural Disperso,31317
+97,Vaupés,2023,Total,43383
+99,Vichada,2023,Cabecera Municipal,30338
+99,Vichada,2023,Centros Poblados y Rural Disperso,107091
+99,Vichada,2023,Total,137429
+05,Antioquia,2024,Cabecera Municipal,5403715
+05,Antioquia,2024,Centros Poblados y Rural Disperso,1477084
+05,Antioquia,2024,Total,6880799
+08,Atlántico,2024,Cabecera Municipal,2692867
+08,Atlántico,2024,Centros Poblados y Rural Disperso,143928
+08,Atlántico,2024,Total,2836795
+11,"Bogotá, D.C.",2024,Cabecera Municipal,7888813
+11,"Bogotá, D.C.",2024,Centros Poblados y Rural Disperso,29847
+11,"Bogotá, D.C.",2024,Total,7918660
+13,Bolívar,2024,Cabecera Municipal,1649787
+13,Bolívar,2024,Centros Poblados y Rural Disperso,577394
+13,Bolívar,2024,Total,2227181
+15,Boyacá,2024,Cabecera Municipal,778910
+15,Boyacá,2024,Centros Poblados y Rural Disperso,504315
+15,Boyacá,2024,Total,1283225
+17,Caldas,2024,Cabecera Municipal,802717
+17,Caldas,2024,Centros Poblados y Rural Disperso,247409
+17,Caldas,2024,Total,1050126
+18,Caquetá,2024,Cabecera Municipal,277433
+18,Caquetá,2024,Centros Poblados y Rural Disperso,148394
+18,Caquetá,2024,Total,425827
+19,Cauca,2024,Cabecera Municipal,575275
+19,Cauca,2024,Centros Poblados y Rural Disperso,1007820
+19,Cauca,2024,Total,1583095
+20,Cesar,2024,Cabecera Municipal,1081709
+20,Cesar,2024,Centros Poblados y Rural Disperso,358775
+20,Cesar,2024,Total,1440484
+23,Córdoba,2024,Cabecera Municipal,1032103
+23,Córdoba,2024,Centros Poblados y Rural Disperso,937005
+23,Córdoba,2024,Total,1969108
+25,Cundinamarca,2024,Cabecera Municipal,2605129
+25,Cundinamarca,2024,Centros Poblados y Rural Disperso,857875
+25,Cundinamarca,2024,Total,3463004
+27,Chocó,2024,Cabecera Municipal,267616
+27,Chocó,2024,Centros Poblados y Rural Disperso,318512
+27,Chocó,2024,Total,586128
+41,Huila,2024,Cabecera Municipal,729291
+41,Huila,2024,Centros Poblados y Rural Disperso,465463
+41,Huila,2024,Total,1194754
+44,La Guajira,2024,Cabecera Municipal,521754
+44,La Guajira,2024,Centros Poblados y Rural Disperso,526105
+44,La Guajira,2024,Total,1047859
+47,Magdalena,2024,Cabecera Municipal,1050665
+47,Magdalena,2024,Centros Poblados y Rural Disperso,475604
+47,Magdalena,2024,Total,1526269
+50,Meta,2024,Cabecera Municipal,866183
+50,Meta,2024,Centros Poblados y Rural Disperso,278103
+50,Meta,2024,Total,1144286
+52,Nariño,2024,Cabecera Municipal,749706
+52,Nariño,2024,Centros Poblados y Rural Disperso,954677
+52,Nariño,2024,Total,1704383
+54,Norte de Santander,2024,Cabecera Municipal,1330718
+54,Norte de Santander,2024,Centros Poblados y Rural Disperso,364252
+54,Norte de Santander,2024,Total,1694970
+63,Quindío,2024,Cabecera Municipal,486593
+63,Quindío,2024,Centros Poblados y Rural Disperso,70287
+63,Quindío,2024,Total,556880
+66,Risaralda,2024,Cabecera Municipal,793086
+66,Risaralda,2024,Centros Poblados y Rural Disperso,204844
+66,Risaralda,2024,Total,997930
+68,Santander,2024,Cabecera Municipal,1825113
+68,Santander,2024,Centros Poblados y Rural Disperso,555537
+68,Santander,2024,Total,2380650
+70,Sucre,2024,Cabecera Municipal,641522
+70,Sucre,2024,Centros Poblados y Rural Disperso,378053
+70,Sucre,2024,Total,1019575
+73,Tolima,2024,Cabecera Municipal,944728
+73,Tolima,2024,Centros Poblados y Rural Disperso,435716
+73,Tolima,2024,Total,1380444
+76,Valle del Cauca,2024,Cabecera Municipal,3987925
+76,Valle del Cauca,2024,Centros Poblados y Rural Disperso,705507
+76,Valle del Cauca,2024,Total,4693432
+81,Arauca,2024,Cabecera Municipal,180186
+81,Arauca,2024,Centros Poblados y Rural Disperso,97697
+81,Arauca,2024,Total,277883
+85,Casanare,2024,Cabecera Municipal,337512
+85,Casanare,2024,Centros Poblados y Rural Disperso,130053
+85,Casanare,2024,Total,467565
+86,Putumayo,2024,Cabecera Municipal,197050
+86,Putumayo,2024,Centros Poblados y Rural Disperso,188350
+86,Putumayo,2024,Total,385400
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2024,Cabecera Municipal,46853
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2024,Centros Poblados y Rural Disperso,16397
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2024,Total,63250
+91,Amazonas,2024,Cabecera Municipal,42092
+91,Amazonas,2024,Centros Poblados y Rural Disperso,42017
+91,Amazonas,2024,Total,84109
+94,Guainía,2024,Cabecera Municipal,26880
+94,Guainía,2024,Centros Poblados y Rural Disperso,31360
+94,Guainía,2024,Total,58240
+95,Guaviare,2024,Cabecera Municipal,47001
+95,Guaviare,2024,Centros Poblados y Rural Disperso,37549
+95,Guaviare,2024,Total,84550
+97,Vaupés,2024,Cabecera Municipal,11991
+97,Vaupés,2024,Centros Poblados y Rural Disperso,31784
+97,Vaupés,2024,Total,43775
+99,Vichada,2024,Cabecera Municipal,30776
+99,Vichada,2024,Centros Poblados y Rural Disperso,112341
+99,Vichada,2024,Total,143117
+05,Antioquia,2025,Cabecera Municipal,5450720
+05,Antioquia,2025,Centros Poblados y Rural Disperso,1477652
+05,Antioquia,2025,Total,6928372
+08,Atlántico,2025,Cabecera Municipal,2719746
+08,Atlántico,2025,Centros Poblados y Rural Disperso,145288
+08,Atlántico,2025,Total,2865034
+11,"Bogotá, D.C.",2025,Cabecera Municipal,7912359
+11,"Bogotá, D.C.",2025,Centros Poblados y Rural Disperso,30508
+11,"Bogotá, D.C.",2025,Total,7942867
+13,Bolívar,2025,Cabecera Municipal,1657713
+13,Bolívar,2025,Centros Poblados y Rural Disperso,583569
+13,Bolívar,2025,Total,2241282
+15,Boyacá,2025,Cabecera Municipal,786824
+15,Boyacá,2025,Centros Poblados y Rural Disperso,503569
+15,Boyacá,2025,Total,1290393
+17,Caldas,2025,Cabecera Municipal,809978
+17,Caldas,2025,Centros Poblados y Rural Disperso,244472
+17,Caldas,2025,Total,1054450
+18,Caquetá,2025,Cabecera Municipal,279588
+18,Caquetá,2025,Centros Poblados y Rural Disperso,149453
+18,Caquetá,2025,Total,429041
+19,Cauca,2025,Cabecera Municipal,578378
+19,Cauca,2025,Centros Poblados y Rural Disperso,1020770
+19,Cauca,2025,Total,1599148
+20,Cesar,2025,Cabecera Municipal,1103948
+20,Cesar,2025,Centros Poblados y Rural Disperso,365211
+20,Cesar,2025,Total,1469159
+23,Córdoba,2025,Cabecera Municipal,1045258
+23,Córdoba,2025,Centros Poblados y Rural Disperso,947649
+23,Córdoba,2025,Total,1992907
+25,Cundinamarca,2025,Cabecera Municipal,2681181
+25,Cundinamarca,2025,Centros Poblados y Rural Disperso,853886
+25,Cundinamarca,2025,Total,3535067
+27,Chocó,2025,Cabecera Municipal,269187
+27,Chocó,2025,Centros Poblados y Rural Disperso,323919
+27,Chocó,2025,Total,593106
+41,Huila,2025,Cabecera Municipal,738236
+41,Huila,2025,Centros Poblados y Rural Disperso,470492
+41,Huila,2025,Total,1208728
+44,La Guajira,2025,Cabecera Municipal,533864
+44,La Guajira,2025,Centros Poblados y Rural Disperso,532815
+44,La Guajira,2025,Total,1066679
+47,Magdalena,2025,Cabecera Municipal,1061355
+47,Magdalena,2025,Centros Poblados y Rural Disperso,483152
+47,Magdalena,2025,Total,1544507
+50,Meta,2025,Cabecera Municipal,874096
+50,Meta,2025,Centros Poblados y Rural Disperso,282309
+50,Meta,2025,Total,1156405
+52,Nariño,2025,Cabecera Municipal,754031
+52,Nariño,2025,Centros Poblados y Rural Disperso,959555
+52,Nariño,2025,Total,1713586
+54,Norte de Santander,2025,Cabecera Municipal,1339944
+54,Norte de Santander,2025,Centros Poblados y Rural Disperso,369345
+54,Norte de Santander,2025,Total,1709289
+63,Quindío,2025,Cabecera Municipal,487313
+63,Quindío,2025,Centros Poblados y Rural Disperso,70571
+63,Quindío,2025,Total,557884
+66,Risaralda,2025,Cabecera Municipal,799308
+66,Risaralda,2025,Centros Poblados y Rural Disperso,203917
+66,Risaralda,2025,Total,1003225
+68,Santander,2025,Cabecera Municipal,1842645
+68,Santander,2025,Centros Poblados y Rural Disperso,555658
+68,Santander,2025,Total,2398303
+70,Sucre,2025,Cabecera Municipal,651065
+70,Sucre,2025,Centros Poblados y Rural Disperso,383037
+70,Sucre,2025,Total,1034102
+73,Tolima,2025,Cabecera Municipal,949593
+73,Tolima,2025,Centros Poblados y Rural Disperso,436817
+73,Tolima,2025,Total,1386410
+76,Valle del Cauca,2025,Cabecera Municipal,3999597
+76,Valle del Cauca,2025,Centros Poblados y Rural Disperso,708796
+76,Valle del Cauca,2025,Total,4708393
+81,Arauca,2025,Cabecera Municipal,180624
+81,Arauca,2025,Centros Poblados y Rural Disperso,98567
+81,Arauca,2025,Total,279191
+85,Casanare,2025,Cabecera Municipal,342845
+85,Casanare,2025,Centros Poblados y Rural Disperso,130320
+85,Casanare,2025,Total,473165
+86,Putumayo,2025,Cabecera Municipal,200506
+86,Putumayo,2025,Centros Poblados y Rural Disperso,190236
+86,Putumayo,2025,Total,390742
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2025,Cabecera Municipal,47218
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2025,Centros Poblados y Rural Disperso,16220
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2025,Total,63438
+91,Amazonas,2025,Cabecera Municipal,42831
+91,Amazonas,2025,Centros Poblados y Rural Disperso,42226
+91,Amazonas,2025,Total,85057
+94,Guainía,2025,Cabecera Municipal,27681
+94,Guainía,2025,Centros Poblados y Rural Disperso,32025
+94,Guainía,2025,Total,59706
+95,Guaviare,2025,Cabecera Municipal,46993
+95,Guaviare,2025,Centros Poblados y Rural Disperso,37703
+95,Guaviare,2025,Total,84696
+97,Vaupés,2025,Cabecera Municipal,11892
+97,Vaupés,2025,Centros Poblados y Rural Disperso,32250
+97,Vaupés,2025,Total,44142
+99,Vichada,2025,Cabecera Municipal,31153
+99,Vichada,2025,Centros Poblados y Rural Disperso,117585
+99,Vichada,2025,Total,148738
+05,Antioquia,2026,Cabecera Municipal,5487839
+05,Antioquia,2026,Centros Poblados y Rural Disperso,1476151
+05,Antioquia,2026,Total,6963990
+08,Atlántico,2026,Cabecera Municipal,2739552
+08,Atlántico,2026,Centros Poblados y Rural Disperso,146352
+08,Atlántico,2026,Total,2885904
+11,"Bogotá, D.C.",2026,Cabecera Municipal,7914911
+11,"Bogotá, D.C.",2026,Centros Poblados y Rural Disperso,31085
+11,"Bogotá, D.C.",2026,Total,7945996
+13,Bolívar,2026,Cabecera Municipal,1662765
+13,Bolívar,2026,Centros Poblados y Rural Disperso,588425
+13,Bolívar,2026,Total,2251190
+15,Boyacá,2026,Cabecera Municipal,793753
+15,Boyacá,2026,Centros Poblados y Rural Disperso,502095
+15,Boyacá,2026,Total,1295848
+17,Caldas,2026,Cabecera Municipal,815759
+17,Caldas,2026,Centros Poblados y Rural Disperso,241080
+17,Caldas,2026,Total,1056839
+18,Caquetá,2026,Cabecera Municipal,281447
+18,Caquetá,2026,Centros Poblados y Rural Disperso,150420
+18,Caquetá,2026,Total,431867
+19,Cauca,2026,Cabecera Municipal,580645
+19,Cauca,2026,Centros Poblados y Rural Disperso,1032684
+19,Cauca,2026,Total,1613329
+20,Cesar,2026,Cabecera Municipal,1123267
+20,Cesar,2026,Centros Poblados y Rural Disperso,370557
+20,Cesar,2026,Total,1493824
+23,Córdoba,2026,Cabecera Municipal,1057319
+23,Córdoba,2026,Centros Poblados y Rural Disperso,956993
+23,Córdoba,2026,Total,2014312
+25,Cundinamarca,2026,Cabecera Municipal,2752657
+25,Cundinamarca,2026,Centros Poblados y Rural Disperso,848620
+25,Cundinamarca,2026,Total,3601277
+27,Chocó,2026,Cabecera Municipal,270454
+27,Chocó,2026,Centros Poblados y Rural Disperso,329014
+27,Chocó,2026,Total,599468
+41,Huila,2026,Cabecera Municipal,746662
+41,Huila,2026,Centros Poblados y Rural Disperso,475185
+41,Huila,2026,Total,1221847
+44,La Guajira,2026,Cabecera Municipal,544394
+44,La Guajira,2026,Centros Poblados y Rural Disperso,538224
+44,La Guajira,2026,Total,1082618
+47,Magdalena,2026,Cabecera Municipal,1069245
+47,Magdalena,2026,Centros Poblados y Rural Disperso,489503
+47,Magdalena,2026,Total,1558748
+50,Meta,2026,Cabecera Municipal,880471
+50,Meta,2026,Centros Poblados y Rural Disperso,286181
+50,Meta,2026,Total,1166652
+52,Nariño,2026,Cabecera Municipal,757981
+52,Nariño,2026,Centros Poblados y Rural Disperso,963754
+52,Nariño,2026,Total,1721735
+54,Norte de Santander,2026,Cabecera Municipal,1344354
+54,Norte de Santander,2026,Centros Poblados y Rural Disperso,373438
+54,Norte de Santander,2026,Total,1717792
+63,Quindío,2026,Cabecera Municipal,487118
+63,Quindío,2026,Centros Poblados y Rural Disperso,70732
+63,Quindío,2026,Total,557850
+66,Risaralda,2026,Cabecera Municipal,804166
+66,Risaralda,2026,Centros Poblados y Rural Disperso,202619
+66,Risaralda,2026,Total,1006785
+68,Santander,2026,Cabecera Municipal,1856252
+68,Santander,2026,Centros Poblados y Rural Disperso,554448
+68,Santander,2026,Total,2410700
+70,Sucre,2026,Cabecera Municipal,659598
+70,Sucre,2026,Centros Poblados y Rural Disperso,387454
+70,Sucre,2026,Total,1047052
+73,Tolima,2026,Cabecera Municipal,953535
+73,Tolima,2026,Centros Poblados y Rural Disperso,437447
+73,Tolima,2026,Total,1390982
+76,Valle del Cauca,2026,Cabecera Municipal,4004126
+76,Valle del Cauca,2026,Centros Poblados y Rural Disperso,710861
+76,Valle del Cauca,2026,Total,4714987
+81,Arauca,2026,Cabecera Municipal,180735
+81,Arauca,2026,Centros Poblados y Rural Disperso,99287
+81,Arauca,2026,Total,280022
+85,Casanare,2026,Cabecera Municipal,347586
+85,Casanare,2026,Centros Poblados y Rural Disperso,130380
+85,Casanare,2026,Total,477966
+86,Putumayo,2026,Cabecera Municipal,203710
+86,Putumayo,2026,Centros Poblados y Rural Disperso,191880
+86,Putumayo,2026,Total,395590
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2026,Cabecera Municipal,47514
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2026,Centros Poblados y Rural Disperso,16013
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2026,Total,63527
+91,Amazonas,2026,Cabecera Municipal,43494
+91,Amazonas,2026,Centros Poblados y Rural Disperso,42402
+91,Amazonas,2026,Total,85896
+94,Guainía,2026,Cabecera Municipal,28428
+94,Guainía,2026,Centros Poblados y Rural Disperso,32637
+94,Guainía,2026,Total,61065
+95,Guaviare,2026,Cabecera Municipal,46964
+95,Guaviare,2026,Centros Poblados y Rural Disperso,37869
+95,Guaviare,2026,Total,84833
+97,Vaupés,2026,Cabecera Municipal,11773
+97,Vaupés,2026,Centros Poblados y Rural Disperso,32717
+97,Vaupés,2026,Total,44490
+99,Vichada,2026,Cabecera Municipal,31454
+99,Vichada,2026,Centros Poblados y Rural Disperso,122736
+99,Vichada,2026,Total,154190
+05,Antioquia,2027,Cabecera Municipal,5522220
+05,Antioquia,2027,Centros Poblados y Rural Disperso,1473971
+05,Antioquia,2027,Total,6996191
+08,Atlántico,2027,Cabecera Municipal,2757732
+08,Atlántico,2027,Centros Poblados y Rural Disperso,147335
+08,Atlántico,2027,Total,2905067
+11,"Bogotá, D.C.",2027,Cabecera Municipal,7912310
+11,"Bogotá, D.C.",2027,Centros Poblados y Rural Disperso,31631
+11,"Bogotá, D.C.",2027,Total,7943941
+13,Bolívar,2027,Cabecera Municipal,1666964
+13,Bolívar,2027,Centros Poblados y Rural Disperso,592915
+13,Bolívar,2027,Total,2259879
+15,Boyacá,2027,Cabecera Municipal,800677
+15,Boyacá,2027,Centros Poblados y Rural Disperso,500184
+15,Boyacá,2027,Total,1300861
+17,Caldas,2027,Cabecera Municipal,821046
+17,Caldas,2027,Centros Poblados y Rural Disperso,237642
+17,Caldas,2027,Total,1058688
+18,Caquetá,2027,Cabecera Municipal,283018
+18,Caquetá,2027,Centros Poblados y Rural Disperso,151396
+18,Caquetá,2027,Total,434414
+19,Cauca,2027,Cabecera Municipal,582860
+19,Cauca,2027,Centros Poblados y Rural Disperso,1043969
+19,Cauca,2027,Total,1626829
+20,Cesar,2027,Cabecera Municipal,1141842
+20,Cesar,2027,Centros Poblados y Rural Disperso,375714
+20,Cesar,2027,Total,1517556
+23,Córdoba,2027,Cabecera Municipal,1068934
+23,Córdoba,2027,Centros Poblados y Rural Disperso,965743
+23,Córdoba,2027,Total,2034677
+25,Cundinamarca,2027,Cabecera Municipal,2823103
+25,Cundinamarca,2027,Centros Poblados y Rural Disperso,843074
+25,Cundinamarca,2027,Total,3666177
+27,Chocó,2027,Cabecera Municipal,271641
+27,Chocó,2027,Centros Poblados y Rural Disperso,333804
+27,Chocó,2027,Total,605445
+41,Huila,2027,Cabecera Municipal,754738
+41,Huila,2027,Centros Poblados y Rural Disperso,479672
+41,Huila,2027,Total,1234410
+44,La Guajira,2027,Cabecera Municipal,554442
+44,La Guajira,2027,Centros Poblados y Rural Disperso,543371
+44,La Guajira,2027,Total,1097813
+47,Magdalena,2027,Cabecera Municipal,1076302
+47,Magdalena,2027,Centros Poblados y Rural Disperso,495321
+47,Magdalena,2027,Total,1571623
+50,Meta,2027,Cabecera Municipal,886345
+50,Meta,2027,Centros Poblados y Rural Disperso,289908
+50,Meta,2027,Total,1176253
+52,Nariño,2027,Cabecera Municipal,761561
+52,Nariño,2027,Centros Poblados y Rural Disperso,967658
+52,Nariño,2027,Total,1729219
+54,Norte de Santander,2027,Cabecera Municipal,1347817
+54,Norte de Santander,2027,Centros Poblados y Rural Disperso,377120
+54,Norte de Santander,2027,Total,1724937
+63,Quindío,2027,Cabecera Municipal,486745
+63,Quindío,2027,Centros Poblados y Rural Disperso,70883
+63,Quindío,2027,Total,557628
+66,Risaralda,2027,Cabecera Municipal,808753
+66,Risaralda,2027,Centros Poblados y Rural Disperso,201147
+66,Risaralda,2027,Total,1009900
+68,Santander,2027,Cabecera Municipal,1868821
+68,Santander,2027,Centros Poblados y Rural Disperso,552912
+68,Santander,2027,Total,2421733
+70,Sucre,2027,Cabecera Municipal,667714
+70,Sucre,2027,Centros Poblados y Rural Disperso,391636
+70,Sucre,2027,Total,1059350
+73,Tolima,2027,Cabecera Municipal,957051
+73,Tolima,2027,Centros Poblados y Rural Disperso,437831
+73,Tolima,2027,Total,1394882
+76,Valle del Cauca,2027,Cabecera Municipal,4006639
+76,Valle del Cauca,2027,Centros Poblados y Rural Disperso,712652
+76,Valle del Cauca,2027,Total,4719291
+81,Arauca,2027,Cabecera Municipal,180762
+81,Arauca,2027,Centros Poblados y Rural Disperso,99952
+81,Arauca,2027,Total,280714
+85,Casanare,2027,Cabecera Municipal,352146
+85,Casanare,2027,Centros Poblados y Rural Disperso,130388
+85,Casanare,2027,Total,482534
+86,Putumayo,2027,Cabecera Municipal,206784
+86,Putumayo,2027,Centros Poblados y Rural Disperso,193457
+86,Putumayo,2027,Total,400241
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2027,Cabecera Municipal,47803
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2027,Centros Poblados y Rural Disperso,15782
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2027,Total,63585
+91,Amazonas,2027,Cabecera Municipal,44092
+91,Amazonas,2027,Centros Poblados y Rural Disperso,42588
+91,Amazonas,2027,Total,86680
+94,Guainía,2027,Cabecera Municipal,29157
+94,Guainía,2027,Centros Poblados y Rural Disperso,33255
+94,Guainía,2027,Total,62412
+95,Guaviare,2027,Cabecera Municipal,46881
+95,Guaviare,2027,Centros Poblados y Rural Disperso,38016
+95,Guaviare,2027,Total,84897
+97,Vaupés,2027,Cabecera Municipal,11635
+97,Vaupés,2027,Centros Poblados y Rural Disperso,33147
+97,Vaupés,2027,Total,44782
+99,Vichada,2027,Cabecera Municipal,31770
+99,Vichada,2027,Centros Poblados y Rural Disperso,127854
+99,Vichada,2027,Total,159624
+05,Antioquia,2028,Cabecera Municipal,5554311
+05,Antioquia,2028,Centros Poblados y Rural Disperso,1471169
+05,Antioquia,2028,Total,7025480
+08,Atlántico,2028,Cabecera Municipal,2774704
+08,Atlántico,2028,Centros Poblados y Rural Disperso,148229
+08,Atlántico,2028,Total,2922933
+11,"Bogotá, D.C.",2028,Cabecera Municipal,7905850
+11,"Bogotá, D.C.",2028,Centros Poblados y Rural Disperso,32089
+11,"Bogotá, D.C.",2028,Total,7937939
+13,Bolívar,2028,Cabecera Municipal,1670569
+13,Bolívar,2028,Centros Poblados y Rural Disperso,597078
+13,Bolívar,2028,Total,2267647
+15,Boyacá,2028,Cabecera Municipal,807704
+15,Boyacá,2028,Centros Poblados y Rural Disperso,497823
+15,Boyacá,2028,Total,1305527
+17,Caldas,2028,Cabecera Municipal,825943
+17,Caldas,2028,Centros Poblados y Rural Disperso,234263
+17,Caldas,2028,Total,1060206
+18,Caquetá,2028,Cabecera Municipal,284440
+18,Caquetá,2028,Centros Poblados y Rural Disperso,152361
+18,Caquetá,2028,Total,436801
+19,Cauca,2028,Cabecera Municipal,584927
+19,Cauca,2028,Centros Poblados y Rural Disperso,1054641
+19,Cauca,2028,Total,1639568
+20,Cesar,2028,Cabecera Municipal,1159777
+20,Cesar,2028,Centros Poblados y Rural Disperso,380516
+20,Cesar,2028,Total,1540293
+23,Córdoba,2028,Cabecera Municipal,1080078
+23,Córdoba,2028,Centros Poblados y Rural Disperso,973934
+23,Córdoba,2028,Total,2054012
+25,Cundinamarca,2028,Cabecera Municipal,2892563
+25,Cundinamarca,2028,Centros Poblados y Rural Disperso,837643
+25,Cundinamarca,2028,Total,3730206
+27,Chocó,2028,Cabecera Municipal,272832
+27,Chocó,2028,Centros Poblados y Rural Disperso,338347
+27,Chocó,2028,Total,611179
+41,Huila,2028,Cabecera Municipal,762465
+41,Huila,2028,Centros Poblados y Rural Disperso,483979
+41,Huila,2028,Total,1246444
+44,La Guajira,2028,Cabecera Municipal,564043
+44,La Guajira,2028,Centros Poblados y Rural Disperso,548374
+44,La Guajira,2028,Total,1112417
+47,Magdalena,2028,Cabecera Municipal,1082763
+47,Magdalena,2028,Centros Poblados y Rural Disperso,500804
+47,Magdalena,2028,Total,1583567
+50,Meta,2028,Cabecera Municipal,891748
+50,Meta,2028,Centros Poblados y Rural Disperso,293512
+50,Meta,2028,Total,1185260
+52,Nariño,2028,Cabecera Municipal,764910
+52,Nariño,2028,Centros Poblados y Rural Disperso,971249
+52,Nariño,2028,Total,1736159
+54,Norte de Santander,2028,Cabecera Municipal,1350602
+54,Norte de Santander,2028,Centros Poblados y Rural Disperso,380501
+54,Norte de Santander,2028,Total,1731103
+63,Quindío,2028,Cabecera Municipal,486167
+63,Quindío,2028,Centros Poblados y Rural Disperso,70943
+63,Quindío,2028,Total,557110
+66,Risaralda,2028,Cabecera Municipal,813013
+66,Risaralda,2028,Centros Poblados y Rural Disperso,199478
+66,Risaralda,2028,Total,1012491
+68,Santander,2028,Cabecera Municipal,1880710
+68,Santander,2028,Centros Poblados y Rural Disperso,551149
+68,Santander,2028,Total,2431859
+70,Sucre,2028,Cabecera Municipal,675533
+70,Sucre,2028,Centros Poblados y Rural Disperso,395610
+70,Sucre,2028,Total,1071143
+73,Tolima,2028,Cabecera Municipal,960308
+73,Tolima,2028,Centros Poblados y Rural Disperso,437781
+73,Tolima,2028,Total,1398089
+76,Valle del Cauca,2028,Cabecera Municipal,4007495
+76,Valle del Cauca,2028,Centros Poblados y Rural Disperso,714297
+76,Valle del Cauca,2028,Total,4721792
+81,Arauca,2028,Cabecera Municipal,180662
+81,Arauca,2028,Centros Poblados y Rural Disperso,100543
+81,Arauca,2028,Total,281205
+85,Casanare,2028,Cabecera Municipal,356515
+85,Casanare,2028,Centros Poblados y Rural Disperso,130338
+85,Casanare,2028,Total,486853
+86,Putumayo,2028,Cabecera Municipal,209578
+86,Putumayo,2028,Centros Poblados y Rural Disperso,194974
+86,Putumayo,2028,Total,404552
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2028,Cabecera Municipal,48076
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2028,Centros Poblados y Rural Disperso,15566
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2028,Total,63642
+91,Amazonas,2028,Cabecera Municipal,44633
+91,Amazonas,2028,Centros Poblados y Rural Disperso,42704
+91,Amazonas,2028,Total,87337
+94,Guainía,2028,Cabecera Municipal,29822
+94,Guainía,2028,Centros Poblados y Rural Disperso,33860
+94,Guainía,2028,Total,63682
+95,Guaviare,2028,Cabecera Municipal,46783
+95,Guaviare,2028,Centros Poblados y Rural Disperso,38187
+95,Guaviare,2028,Total,84970
+97,Vaupés,2028,Cabecera Municipal,11475
+97,Vaupés,2028,Centros Poblados y Rural Disperso,33616
+97,Vaupés,2028,Total,45091
+99,Vichada,2028,Cabecera Municipal,32048
+99,Vichada,2028,Centros Poblados y Rural Disperso,132897
+99,Vichada,2028,Total,164945
+05,Antioquia,2029,Cabecera Municipal,5584265
+05,Antioquia,2029,Centros Poblados y Rural Disperso,1467820
+05,Antioquia,2029,Total,7052085
+08,Atlántico,2029,Cabecera Municipal,2790650
+08,Atlántico,2029,Centros Poblados y Rural Disperso,149124
+08,Atlántico,2029,Total,2939774
+11,"Bogotá, D.C.",2029,Cabecera Municipal,7896143
+11,"Bogotá, D.C.",2029,Centros Poblados y Rural Disperso,32489
+11,"Bogotá, D.C.",2029,Total,7928632
+13,Bolívar,2029,Cabecera Municipal,1673586
+13,Bolívar,2029,Centros Poblados y Rural Disperso,600907
+13,Bolívar,2029,Total,2274493
+15,Boyacá,2029,Cabecera Municipal,814715
+15,Boyacá,2029,Centros Poblados y Rural Disperso,495085
+15,Boyacá,2029,Total,1309800
+17,Caldas,2029,Cabecera Municipal,830326
+17,Caldas,2029,Centros Poblados y Rural Disperso,230868
+17,Caldas,2029,Total,1061194
+18,Caquetá,2029,Cabecera Municipal,285594
+18,Caquetá,2029,Centros Poblados y Rural Disperso,153382
+18,Caquetá,2029,Total,438976
+19,Cauca,2029,Cabecera Municipal,587019
+19,Cauca,2029,Centros Poblados y Rural Disperso,1064851
+19,Cauca,2029,Total,1651870
+20,Cesar,2029,Cabecera Municipal,1177242
+20,Cesar,2029,Centros Poblados y Rural Disperso,385165
+20,Cesar,2029,Total,1562407
+23,Córdoba,2029,Cabecera Municipal,1090924
+23,Córdoba,2029,Centros Poblados y Rural Disperso,981513
+23,Córdoba,2029,Total,2072437
+25,Cundinamarca,2029,Cabecera Municipal,2961015
+25,Cundinamarca,2029,Centros Poblados y Rural Disperso,832116
+25,Cundinamarca,2029,Total,3793131
+27,Chocó,2029,Cabecera Municipal,273924
+27,Chocó,2029,Centros Poblados y Rural Disperso,342627
+27,Chocó,2029,Total,616551
+41,Huila,2029,Cabecera Municipal,769816
+41,Huila,2029,Centros Poblados y Rural Disperso,488023
+41,Huila,2029,Total,1257839
+44,La Guajira,2029,Cabecera Municipal,573236
+44,La Guajira,2029,Centros Poblados y Rural Disperso,553334
+44,La Guajira,2029,Total,1126570
+47,Magdalena,2029,Cabecera Municipal,1088761
+47,Magdalena,2029,Centros Poblados y Rural Disperso,505764
+47,Magdalena,2029,Total,1594525
+50,Meta,2029,Cabecera Municipal,896841
+50,Meta,2029,Centros Poblados y Rural Disperso,296978
+50,Meta,2029,Total,1193819
+52,Nariño,2029,Cabecera Municipal,767905
+52,Nariño,2029,Centros Poblados y Rural Disperso,974457
+52,Nariño,2029,Total,1742362
+54,Norte de Santander,2029,Cabecera Municipal,1353028
+54,Norte de Santander,2029,Centros Poblados y Rural Disperso,383588
+54,Norte de Santander,2029,Total,1736616
+63,Quindío,2029,Cabecera Municipal,485456
+63,Quindío,2029,Centros Poblados y Rural Disperso,70904
+63,Quindío,2029,Total,556360
+66,Risaralda,2029,Cabecera Municipal,816983
+66,Risaralda,2029,Centros Poblados y Rural Disperso,197694
+66,Risaralda,2029,Total,1014677
+68,Santander,2029,Cabecera Municipal,1891892
+68,Santander,2029,Centros Poblados y Rural Disperso,549063
+68,Santander,2029,Total,2440955
+70,Sucre,2029,Cabecera Municipal,683024
+70,Sucre,2029,Centros Poblados y Rural Disperso,399482
+70,Sucre,2029,Total,1082506
+73,Tolima,2029,Cabecera Municipal,963443
+73,Tolima,2029,Centros Poblados y Rural Disperso,437619
+73,Tolima,2029,Total,1401062
+76,Valle del Cauca,2029,Cabecera Municipal,4006788
+76,Valle del Cauca,2029,Centros Poblados y Rural Disperso,715660
+76,Valle del Cauca,2029,Total,4722448
+81,Arauca,2029,Cabecera Municipal,180469
+81,Arauca,2029,Centros Poblados y Rural Disperso,101103
+81,Arauca,2029,Total,281572
+85,Casanare,2029,Cabecera Municipal,360709
+85,Casanare,2029,Centros Poblados y Rural Disperso,130350
+85,Casanare,2029,Total,491059
+86,Putumayo,2029,Cabecera Municipal,212261
+86,Putumayo,2029,Centros Poblados y Rural Disperso,196482
+86,Putumayo,2029,Total,408743
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2029,Cabecera Municipal,48347
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2029,Centros Poblados y Rural Disperso,15323
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2029,Total,63670
+91,Amazonas,2029,Cabecera Municipal,45129
+91,Amazonas,2029,Centros Poblados y Rural Disperso,42822
+91,Amazonas,2029,Total,87951
+94,Guainía,2029,Cabecera Municipal,30424
+94,Guainía,2029,Centros Poblados y Rural Disperso,34448
+94,Guainía,2029,Total,64872
+95,Guaviare,2029,Cabecera Municipal,46635
+95,Guaviare,2029,Centros Poblados y Rural Disperso,38348
+95,Guaviare,2029,Total,84983
+97,Vaupés,2029,Cabecera Municipal,11307
+97,Vaupés,2029,Centros Poblados y Rural Disperso,34050
+97,Vaupés,2029,Total,45357
+99,Vichada,2029,Cabecera Municipal,32295
+99,Vichada,2029,Centros Poblados y Rural Disperso,137815
+99,Vichada,2029,Total,170110
+05,Antioquia,2030,Cabecera Municipal,5612184
+05,Antioquia,2030,Centros Poblados y Rural Disperso,1464006
+05,Antioquia,2030,Total,7076190
+08,Atlántico,2030,Cabecera Municipal,2805768
+08,Atlántico,2030,Centros Poblados y Rural Disperso,150010
+08,Atlántico,2030,Total,2955778
+11,"Bogotá, D.C.",2030,Cabecera Municipal,7883705
+11,"Bogotá, D.C.",2030,Centros Poblados y Rural Disperso,32820
+11,"Bogotá, D.C.",2030,Total,7916525
+13,Bolívar,2030,Cabecera Municipal,1676234
+13,Bolívar,2030,Centros Poblados y Rural Disperso,604391
+13,Bolívar,2030,Total,2280625
+15,Boyacá,2030,Cabecera Municipal,821893
+15,Boyacá,2030,Centros Poblados y Rural Disperso,491555
+15,Boyacá,2030,Total,1313448
+17,Caldas,2030,Cabecera Municipal,834383
+17,Caldas,2030,Centros Poblados y Rural Disperso,227431
+17,Caldas,2030,Total,1061814
+18,Caquetá,2030,Cabecera Municipal,286554
+18,Caquetá,2030,Centros Poblados y Rural Disperso,154318
+18,Caquetá,2030,Total,440872
+19,Cauca,2030,Cabecera Municipal,589027
+19,Cauca,2030,Centros Poblados y Rural Disperso,1074314
+19,Cauca,2030,Total,1663341
+20,Cesar,2030,Cabecera Municipal,1194213
+20,Cesar,2030,Centros Poblados y Rural Disperso,389657
+20,Cesar,2030,Total,1583870
+23,Córdoba,2030,Cabecera Municipal,1101448
+23,Córdoba,2030,Centros Poblados y Rural Disperso,988624
+23,Córdoba,2030,Total,2090072
+25,Cundinamarca,2030,Cabecera Municipal,3028522
+25,Cundinamarca,2030,Centros Poblados y Rural Disperso,827183
+25,Cundinamarca,2030,Total,3855705
+27,Chocó,2030,Cabecera Municipal,275033
+27,Chocó,2030,Centros Poblados y Rural Disperso,346537
+27,Chocó,2030,Total,621570
+41,Huila,2030,Cabecera Municipal,776858
+41,Huila,2030,Centros Poblados y Rural Disperso,491874
+41,Huila,2030,Total,1268732
+44,La Guajira,2030,Cabecera Municipal,581944
+44,La Guajira,2030,Centros Poblados y Rural Disperso,558246
+44,La Guajira,2030,Total,1140190
+47,Magdalena,2030,Cabecera Municipal,1094428
+47,Magdalena,2030,Centros Poblados y Rural Disperso,510357
+47,Magdalena,2030,Total,1604785
+50,Meta,2030,Cabecera Municipal,901567
+50,Meta,2030,Centros Poblados y Rural Disperso,300372
+50,Meta,2030,Total,1201939
+52,Nariño,2030,Cabecera Municipal,770607
+52,Nariño,2030,Centros Poblados y Rural Disperso,977500
+52,Nariño,2030,Total,1748107
+54,Norte de Santander,2030,Cabecera Municipal,1355224
+54,Norte de Santander,2030,Centros Poblados y Rural Disperso,386396
+54,Norte de Santander,2030,Total,1741620
+63,Quindío,2030,Cabecera Municipal,484533
+63,Quindío,2030,Centros Poblados y Rural Disperso,70889
+63,Quindío,2030,Total,555422
+66,Risaralda,2030,Cabecera Municipal,820756
+66,Risaralda,2030,Centros Poblados y Rural Disperso,195774
+66,Risaralda,2030,Total,1016530
+68,Santander,2030,Cabecera Municipal,1902514
+68,Santander,2030,Centros Poblados y Rural Disperso,546813
+68,Santander,2030,Total,2449327
+70,Sucre,2030,Cabecera Municipal,690223
+70,Sucre,2030,Centros Poblados y Rural Disperso,403138
+70,Sucre,2030,Total,1093361
+73,Tolima,2030,Cabecera Municipal,966217
+73,Tolima,2030,Centros Poblados y Rural Disperso,436997
+73,Tolima,2030,Total,1403214
+76,Valle del Cauca,2030,Cabecera Municipal,4004673
+76,Valle del Cauca,2030,Centros Poblados y Rural Disperso,717043
+76,Valle del Cauca,2030,Total,4721716
+81,Arauca,2030,Cabecera Municipal,180235
+81,Arauca,2030,Centros Poblados y Rural Disperso,101604
+81,Arauca,2030,Total,281839
+85,Casanare,2030,Cabecera Municipal,364647
+85,Casanare,2030,Centros Poblados y Rural Disperso,130285
+85,Casanare,2030,Total,494932
+86,Putumayo,2030,Cabecera Municipal,214750
+86,Putumayo,2030,Centros Poblados y Rural Disperso,197883
+86,Putumayo,2030,Total,412633
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2030,Cabecera Municipal,48619
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2030,Centros Poblados y Rural Disperso,15102
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2030,Total,63721
+91,Amazonas,2030,Cabecera Municipal,45559
+91,Amazonas,2030,Centros Poblados y Rural Disperso,42946
+91,Amazonas,2030,Total,88505
+94,Guainía,2030,Cabecera Municipal,30955
+94,Guainía,2030,Centros Poblados y Rural Disperso,35058
+94,Guainía,2030,Total,66013
+95,Guaviare,2030,Cabecera Municipal,46487
+95,Guaviare,2030,Centros Poblados y Rural Disperso,38530
+95,Guaviare,2030,Total,85017
+97,Vaupés,2030,Cabecera Municipal,11139
+97,Vaupés,2030,Centros Poblados y Rural Disperso,34461
+97,Vaupés,2030,Total,45600
+99,Vichada,2030,Cabecera Municipal,32551
+99,Vichada,2030,Centros Poblados y Rural Disperso,142659
+99,Vichada,2030,Total,175210
+05,Antioquia,2031,Cabecera Municipal,5638157
+05,Antioquia,2031,Centros Poblados y Rural Disperso,1459648
+05,Antioquia,2031,Total,7097805
+08,Atlántico,2031,Cabecera Municipal,2820011
+08,Atlántico,2031,Centros Poblados y Rural Disperso,150856
+08,Atlántico,2031,Total,2970867
+11,"Bogotá, D.C.",2031,Cabecera Municipal,7868548
+11,"Bogotá, D.C.",2031,Centros Poblados y Rural Disperso,33048
+11,"Bogotá, D.C.",2031,Total,7901596
+13,Bolívar,2031,Cabecera Municipal,1678436
+13,Bolívar,2031,Centros Poblados y Rural Disperso,607555
+13,Bolívar,2031,Total,2285991
+15,Boyacá,2031,Cabecera Municipal,829318
+15,Boyacá,2031,Centros Poblados y Rural Disperso,487785
+15,Boyacá,2031,Total,1317103
+17,Caldas,2031,Cabecera Municipal,837927
+17,Caldas,2031,Centros Poblados y Rural Disperso,224012
+17,Caldas,2031,Total,1061939
+18,Caquetá,2031,Cabecera Municipal,287354
+18,Caquetá,2031,Centros Poblados y Rural Disperso,155330
+18,Caquetá,2031,Total,442684
+19,Cauca,2031,Cabecera Municipal,590944
+19,Cauca,2031,Centros Poblados y Rural Disperso,1083256
+19,Cauca,2031,Total,1674200
+20,Cesar,2031,Cabecera Municipal,1210838
+20,Cesar,2031,Centros Poblados y Rural Disperso,393925
+20,Cesar,2031,Total,1604763
+23,Córdoba,2031,Cabecera Municipal,1111615
+23,Córdoba,2031,Centros Poblados y Rural Disperso,995244
+23,Córdoba,2031,Total,2106859
+25,Cundinamarca,2031,Cabecera Municipal,3094894
+25,Cundinamarca,2031,Centros Poblados y Rural Disperso,822284
+25,Cundinamarca,2031,Total,3917178
+27,Chocó,2031,Cabecera Municipal,276152
+27,Chocó,2031,Centros Poblados y Rural Disperso,350223
+27,Chocó,2031,Total,626375
+41,Huila,2031,Cabecera Municipal,783558
+41,Huila,2031,Centros Poblados y Rural Disperso,495475
+41,Huila,2031,Total,1279033
+44,La Guajira,2031,Cabecera Municipal,590367
+44,La Guajira,2031,Centros Poblados y Rural Disperso,563112
+44,La Guajira,2031,Total,1153479
+47,Magdalena,2031,Cabecera Municipal,1099689
+47,Magdalena,2031,Centros Poblados y Rural Disperso,514613
+47,Magdalena,2031,Total,1614302
+50,Meta,2031,Cabecera Municipal,905982
+50,Meta,2031,Centros Poblados y Rural Disperso,303597
+50,Meta,2031,Total,1209579
+52,Nariño,2031,Cabecera Municipal,773039
+52,Nariño,2031,Centros Poblados y Rural Disperso,980143
+52,Nariño,2031,Total,1753182
+54,Norte de Santander,2031,Cabecera Municipal,1357277
+54,Norte de Santander,2031,Centros Poblados y Rural Disperso,388975
+54,Norte de Santander,2031,Total,1746252
+63,Quindío,2031,Cabecera Municipal,483558
+63,Quindío,2031,Centros Poblados y Rural Disperso,70777
+63,Quindío,2031,Total,554335
+66,Risaralda,2031,Cabecera Municipal,824195
+66,Risaralda,2031,Centros Poblados y Rural Disperso,193726
+66,Risaralda,2031,Total,1017921
+68,Santander,2031,Cabecera Municipal,1912392
+68,Santander,2031,Centros Poblados y Rural Disperso,544318
+68,Santander,2031,Total,2456710
+70,Sucre,2031,Cabecera Municipal,697169
+70,Sucre,2031,Centros Poblados y Rural Disperso,406627
+70,Sucre,2031,Total,1103796
+73,Tolima,2031,Cabecera Municipal,968769
+73,Tolima,2031,Centros Poblados y Rural Disperso,436153
+73,Tolima,2031,Total,1404922
+76,Valle del Cauca,2031,Cabecera Municipal,4001017
+76,Valle del Cauca,2031,Centros Poblados y Rural Disperso,718253
+76,Valle del Cauca,2031,Total,4719270
+81,Arauca,2031,Cabecera Municipal,179913
+81,Arauca,2031,Centros Poblados y Rural Disperso,102001
+81,Arauca,2031,Total,281914
+85,Casanare,2031,Cabecera Municipal,368423
+85,Casanare,2031,Centros Poblados y Rural Disperso,130246
+85,Casanare,2031,Total,498669
+86,Putumayo,2031,Cabecera Municipal,216985
+86,Putumayo,2031,Centros Poblados y Rural Disperso,199266
+86,Putumayo,2031,Total,416251
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2031,Cabecera Municipal,48870
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2031,Centros Poblados y Rural Disperso,14897
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2031,Total,63767
+91,Amazonas,2031,Cabecera Municipal,45880
+91,Amazonas,2031,Centros Poblados y Rural Disperso,43164
+91,Amazonas,2031,Total,89044
+94,Guainía,2031,Cabecera Municipal,31474
+94,Guainía,2031,Centros Poblados y Rural Disperso,35621
+94,Guainía,2031,Total,67095
+95,Guaviare,2031,Cabecera Municipal,46279
+95,Guaviare,2031,Centros Poblados y Rural Disperso,38684
+95,Guaviare,2031,Total,84963
+97,Vaupés,2031,Cabecera Municipal,10982
+97,Vaupés,2031,Centros Poblados y Rural Disperso,34851
+97,Vaupés,2031,Total,45833
+99,Vichada,2031,Cabecera Municipal,32791
+99,Vichada,2031,Centros Poblados y Rural Disperso,147350
+99,Vichada,2031,Total,180141
+05,Antioquia,2032,Cabecera Municipal,5661956
+05,Antioquia,2032,Centros Poblados y Rural Disperso,1454889
+05,Antioquia,2032,Total,7116845
+08,Atlántico,2032,Cabecera Municipal,2833542
+08,Atlántico,2032,Centros Poblados y Rural Disperso,151683
+08,Atlántico,2032,Total,2985225
+11,"Bogotá, D.C.",2032,Cabecera Municipal,7850694
+11,"Bogotá, D.C.",2032,Centros Poblados y Rural Disperso,33229
+11,"Bogotá, D.C.",2032,Total,7883923
+13,Bolívar,2032,Cabecera Municipal,1680320
+13,Bolívar,2032,Centros Poblados y Rural Disperso,610466
+13,Bolívar,2032,Total,2290786
+15,Boyacá,2032,Cabecera Municipal,836695
+15,Boyacá,2032,Centros Poblados y Rural Disperso,483472
+15,Boyacá,2032,Total,1320167
+17,Caldas,2032,Cabecera Municipal,841100
+17,Caldas,2032,Centros Poblados y Rural Disperso,220594
+17,Caldas,2032,Total,1061694
+18,Caquetá,2032,Cabecera Municipal,287951
+18,Caquetá,2032,Centros Poblados y Rural Disperso,156293
+18,Caquetá,2032,Total,444244
+19,Cauca,2032,Cabecera Municipal,592882
+19,Cauca,2032,Centros Poblados y Rural Disperso,1091486
+19,Cauca,2032,Total,1684368
+20,Cesar,2032,Cabecera Municipal,1226936
+20,Cesar,2032,Centros Poblados y Rural Disperso,397969
+20,Cesar,2032,Total,1624905
+23,Córdoba,2032,Cabecera Municipal,1121545
+23,Córdoba,2032,Centros Poblados y Rural Disperso,1001318
+23,Córdoba,2032,Total,2122863
+25,Cundinamarca,2032,Cabecera Municipal,3160305
+25,Cundinamarca,2032,Centros Poblados y Rural Disperso,817562
+25,Cundinamarca,2032,Total,3977867
+27,Chocó,2032,Cabecera Municipal,277180
+27,Chocó,2032,Centros Poblados y Rural Disperso,353557
+27,Chocó,2032,Total,630737
+41,Huila,2032,Cabecera Municipal,789931
+41,Huila,2032,Centros Poblados y Rural Disperso,498841
+41,Huila,2032,Total,1288772
+44,La Guajira,2032,Cabecera Municipal,598354
+44,La Guajira,2032,Centros Poblados y Rural Disperso,568019
+44,La Guajira,2032,Total,1166373
+47,Magdalena,2032,Cabecera Municipal,1104710
+47,Magdalena,2032,Centros Poblados y Rural Disperso,518443
+47,Magdalena,2032,Total,1623153
+50,Meta,2032,Cabecera Municipal,910044
+50,Meta,2032,Centros Poblados y Rural Disperso,306726
+50,Meta,2032,Total,1216770
+52,Nariño,2032,Cabecera Municipal,775224
+52,Nariño,2032,Centros Poblados y Rural Disperso,982566
+52,Nariño,2032,Total,1757790
+54,Norte de Santander,2032,Cabecera Municipal,1359229
+54,Norte de Santander,2032,Centros Poblados y Rural Disperso,391238
+54,Norte de Santander,2032,Total,1750467
+63,Quindío,2032,Cabecera Municipal,482337
+63,Quindío,2032,Centros Poblados y Rural Disperso,70536
+63,Quindío,2032,Total,552873
+66,Risaralda,2032,Cabecera Municipal,827368
+66,Risaralda,2032,Centros Poblados y Rural Disperso,191588
+66,Risaralda,2032,Total,1018956
+68,Santander,2032,Cabecera Municipal,1921763
+68,Santander,2032,Centros Poblados y Rural Disperso,541816
+68,Santander,2032,Total,2463579
+70,Sucre,2032,Cabecera Municipal,703730
+70,Sucre,2032,Centros Poblados y Rural Disperso,409998
+70,Sucre,2032,Total,1113728
+73,Tolima,2032,Cabecera Municipal,971016
+73,Tolima,2032,Centros Poblados y Rural Disperso,434911
+73,Tolima,2032,Total,1405927
+76,Valle del Cauca,2032,Cabecera Municipal,3995894
+76,Valle del Cauca,2032,Centros Poblados y Rural Disperso,719455
+76,Valle del Cauca,2032,Total,4715349
+81,Arauca,2032,Cabecera Municipal,179489
+81,Arauca,2032,Centros Poblados y Rural Disperso,102411
+81,Arauca,2032,Total,281900
+85,Casanare,2032,Cabecera Municipal,371970
+85,Casanare,2032,Centros Poblados y Rural Disperso,130203
+85,Casanare,2032,Total,502173
+86,Putumayo,2032,Cabecera Municipal,218992
+86,Putumayo,2032,Centros Poblados y Rural Disperso,200650
+86,Putumayo,2032,Total,419642
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2032,Cabecera Municipal,49105
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2032,Centros Poblados y Rural Disperso,14681
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2032,Total,63786
+91,Amazonas,2032,Cabecera Municipal,46164
+91,Amazonas,2032,Centros Poblados y Rural Disperso,43311
+91,Amazonas,2032,Total,89475
+94,Guainía,2032,Cabecera Municipal,31906
+94,Guainía,2032,Centros Poblados y Rural Disperso,36188
+94,Guainía,2032,Total,68094
+95,Guaviare,2032,Cabecera Municipal,46042
+95,Guaviare,2032,Centros Poblados y Rural Disperso,38836
+95,Guaviare,2032,Total,84878
+97,Vaupés,2032,Cabecera Municipal,10847
+97,Vaupés,2032,Centros Poblados y Rural Disperso,35264
+97,Vaupés,2032,Total,46111
+99,Vichada,2032,Cabecera Municipal,33033
+99,Vichada,2032,Centros Poblados y Rural Disperso,151930
+99,Vichada,2032,Total,184963
+05,Antioquia,2033,Cabecera Municipal,5683613
+05,Antioquia,2033,Centros Poblados y Rural Disperso,1449590
+05,Antioquia,2033,Total,7133203
+08,Atlántico,2033,Cabecera Municipal,2846335
+08,Atlántico,2033,Centros Poblados y Rural Disperso,152543
+08,Atlántico,2033,Total,2998878
+11,"Bogotá, D.C.",2033,Cabecera Municipal,7830169
+11,"Bogotá, D.C.",2033,Centros Poblados y Rural Disperso,33314
+11,"Bogotá, D.C.",2033,Total,7863483
+13,Bolívar,2033,Cabecera Municipal,1681920
+13,Bolívar,2033,Centros Poblados y Rural Disperso,613134
+13,Bolívar,2033,Total,2295054
+15,Boyacá,2033,Cabecera Municipal,844162
+15,Boyacá,2033,Centros Poblados y Rural Disperso,478672
+15,Boyacá,2033,Total,1322834
+17,Caldas,2033,Cabecera Municipal,843770
+17,Caldas,2033,Centros Poblados y Rural Disperso,217119
+17,Caldas,2033,Total,1060889
+18,Caquetá,2033,Cabecera Municipal,288317
+18,Caquetá,2033,Centros Poblados y Rural Disperso,157286
+18,Caquetá,2033,Total,445603
+19,Cauca,2033,Cabecera Municipal,594678
+19,Cauca,2033,Centros Poblados y Rural Disperso,1099191
+19,Cauca,2033,Total,1693869
+20,Cesar,2033,Cabecera Municipal,1242704
+20,Cesar,2033,Centros Poblados y Rural Disperso,401913
+20,Cesar,2033,Total,1644617
+23,Córdoba,2033,Cabecera Municipal,1131122
+23,Córdoba,2033,Centros Poblados y Rural Disperso,1006937
+23,Córdoba,2033,Total,2138059
+25,Cundinamarca,2033,Cabecera Municipal,3224590
+25,Cundinamarca,2033,Centros Poblados y Rural Disperso,813082
+25,Cundinamarca,2033,Total,4037672
+27,Chocó,2033,Cabecera Municipal,278325
+27,Chocó,2033,Centros Poblados y Rural Disperso,356668
+27,Chocó,2033,Total,634993
+41,Huila,2033,Cabecera Municipal,795957
+41,Huila,2033,Centros Poblados y Rural Disperso,501983
+41,Huila,2033,Total,1297940
+44,La Guajira,2033,Cabecera Municipal,605974
+44,La Guajira,2033,Centros Poblados y Rural Disperso,572821
+44,La Guajira,2033,Total,1178795
+47,Magdalena,2033,Cabecera Municipal,1109347
+47,Magdalena,2033,Centros Poblados y Rural Disperso,521851
+47,Magdalena,2033,Total,1631198
+50,Meta,2033,Cabecera Municipal,913906
+50,Meta,2033,Centros Poblados y Rural Disperso,309741
+50,Meta,2033,Total,1223647
+52,Nariño,2033,Cabecera Municipal,777124
+52,Nariño,2033,Centros Poblados y Rural Disperso,984602
+52,Nariño,2033,Total,1761726
+54,Norte de Santander,2033,Cabecera Municipal,1360998
+54,Norte de Santander,2033,Centros Poblados y Rural Disperso,393207
+54,Norte de Santander,2033,Total,1754205
+63,Quindío,2033,Cabecera Municipal,480959
+63,Quindío,2033,Centros Poblados y Rural Disperso,70260
+63,Quindío,2033,Total,551219
+66,Risaralda,2033,Cabecera Municipal,830226
+66,Risaralda,2033,Centros Poblados y Rural Disperso,189339
+66,Risaralda,2033,Total,1019565
+68,Santander,2033,Cabecera Municipal,1930552
+68,Santander,2033,Centros Poblados y Rural Disperso,539143
+68,Santander,2033,Total,2469695
+70,Sucre,2033,Cabecera Municipal,710034
+70,Sucre,2033,Centros Poblados y Rural Disperso,413221
+70,Sucre,2033,Total,1123255
+73,Tolima,2033,Cabecera Municipal,972916
+73,Tolima,2033,Centros Poblados y Rural Disperso,433435
+73,Tolima,2033,Total,1406351
+76,Valle del Cauca,2033,Cabecera Municipal,3989255
+76,Valle del Cauca,2033,Centros Poblados y Rural Disperso,720522
+76,Valle del Cauca,2033,Total,4709777
+81,Arauca,2033,Cabecera Municipal,179024
+81,Arauca,2033,Centros Poblados y Rural Disperso,102737
+81,Arauca,2033,Total,281761
+85,Casanare,2033,Cabecera Municipal,375305
+85,Casanare,2033,Centros Poblados y Rural Disperso,130160
+85,Casanare,2033,Total,505465
+86,Putumayo,2033,Cabecera Municipal,220840
+86,Putumayo,2033,Centros Poblados y Rural Disperso,201985
+86,Putumayo,2033,Total,422825
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2033,Cabecera Municipal,49317
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2033,Centros Poblados y Rural Disperso,14454
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2033,Total,63771
+91,Amazonas,2033,Cabecera Municipal,46370
+91,Amazonas,2033,Centros Poblados y Rural Disperso,43490
+91,Amazonas,2033,Total,89860
+94,Guainía,2033,Cabecera Municipal,32296
+94,Guainía,2033,Centros Poblados y Rural Disperso,36718
+94,Guainía,2033,Total,69014
+95,Guaviare,2033,Cabecera Municipal,45780
+95,Guaviare,2033,Centros Poblados y Rural Disperso,39015
+95,Guaviare,2033,Total,84795
+97,Vaupés,2033,Cabecera Municipal,10707
+97,Vaupés,2033,Centros Poblados y Rural Disperso,35641
+97,Vaupés,2033,Total,46348
+99,Vichada,2033,Cabecera Municipal,33239
+99,Vichada,2033,Centros Poblados y Rural Disperso,156383
+99,Vichada,2033,Total,189622
+05,Antioquia,2034,Cabecera Municipal,5703085
+05,Antioquia,2034,Centros Poblados y Rural Disperso,1443839
+05,Antioquia,2034,Total,7146924
+08,Atlántico,2034,Cabecera Municipal,2858412
+08,Atlántico,2034,Centros Poblados y Rural Disperso,153375
+08,Atlántico,2034,Total,3011787
+11,"Bogotá, D.C.",2034,Cabecera Municipal,7806947
+11,"Bogotá, D.C.",2034,Centros Poblados y Rural Disperso,33362
+11,"Bogotá, D.C.",2034,Total,7840309
+13,Bolívar,2034,Cabecera Municipal,1683054
+13,Bolívar,2034,Centros Poblados y Rural Disperso,615498
+13,Bolívar,2034,Total,2298552
+15,Boyacá,2034,Cabecera Municipal,851574
+15,Boyacá,2034,Centros Poblados y Rural Disperso,473496
+15,Boyacá,2034,Total,1325070
+17,Caldas,2034,Cabecera Municipal,845956
+17,Caldas,2034,Centros Poblados y Rural Disperso,213653
+17,Caldas,2034,Total,1059609
+18,Caquetá,2034,Cabecera Municipal,288546
+18,Caquetá,2034,Centros Poblados y Rural Disperso,158278
+18,Caquetá,2034,Total,446824
+19,Cauca,2034,Cabecera Municipal,596490
+19,Cauca,2034,Centros Poblados y Rural Disperso,1106245
+19,Cauca,2034,Total,1702735
+20,Cesar,2034,Cabecera Municipal,1257970
+20,Cesar,2034,Centros Poblados y Rural Disperso,405705
+20,Cesar,2034,Total,1663675
+23,Córdoba,2034,Cabecera Municipal,1140447
+23,Córdoba,2034,Centros Poblados y Rural Disperso,1012125
+23,Córdoba,2034,Total,2152572
+25,Cundinamarca,2034,Cabecera Municipal,3287843
+25,Cundinamarca,2034,Centros Poblados y Rural Disperso,808644
+25,Cundinamarca,2034,Total,4096487
+27,Chocó,2034,Cabecera Municipal,279399
+27,Chocó,2034,Centros Poblados y Rural Disperso,359500
+27,Chocó,2034,Total,638899
+41,Huila,2034,Cabecera Municipal,801638
+41,Huila,2034,Centros Poblados y Rural Disperso,504902
+41,Huila,2034,Total,1306540
+44,La Guajira,2034,Cabecera Municipal,613323
+44,La Guajira,2034,Centros Poblados y Rural Disperso,577586
+44,La Guajira,2034,Total,1190909
+47,Magdalena,2034,Cabecera Municipal,1113743
+47,Magdalena,2034,Centros Poblados y Rural Disperso,524914
+47,Magdalena,2034,Total,1638657
+50,Meta,2034,Cabecera Municipal,917383
+50,Meta,2034,Centros Poblados y Rural Disperso,312647
+50,Meta,2034,Total,1230030
+52,Nariño,2034,Cabecera Municipal,778732
+52,Nariño,2034,Centros Poblados y Rural Disperso,986359
+52,Nariño,2034,Total,1765091
+54,Norte de Santander,2034,Cabecera Municipal,1362738
+54,Norte de Santander,2034,Centros Poblados y Rural Disperso,394986
+54,Norte de Santander,2034,Total,1757724
+63,Quindío,2034,Cabecera Municipal,479432
+63,Quindío,2034,Centros Poblados y Rural Disperso,69957
+63,Quindío,2034,Total,549389
+66,Risaralda,2034,Cabecera Municipal,832733
+66,Risaralda,2034,Centros Poblados y Rural Disperso,186939
+66,Risaralda,2034,Total,1019672
+68,Santander,2034,Cabecera Municipal,1938762
+68,Santander,2034,Centros Poblados y Rural Disperso,536310
+68,Santander,2034,Total,2475072
+70,Sucre,2034,Cabecera Municipal,716028
+70,Sucre,2034,Centros Poblados y Rural Disperso,416313
+70,Sucre,2034,Total,1132341
+73,Tolima,2034,Cabecera Municipal,974528
+73,Tolima,2034,Centros Poblados y Rural Disperso,431635
+73,Tolima,2034,Total,1406163
+76,Valle del Cauca,2034,Cabecera Municipal,3981070
+76,Valle del Cauca,2034,Centros Poblados y Rural Disperso,721481
+76,Valle del Cauca,2034,Total,4702551
+81,Arauca,2034,Cabecera Municipal,178495
+81,Arauca,2034,Centros Poblados y Rural Disperso,103000
+81,Arauca,2034,Total,281495
+85,Casanare,2034,Cabecera Municipal,378434
+85,Casanare,2034,Centros Poblados y Rural Disperso,130185
+85,Casanare,2034,Total,508619
+86,Putumayo,2034,Cabecera Municipal,222459
+86,Putumayo,2034,Centros Poblados y Rural Disperso,203314
+86,Putumayo,2034,Total,425773
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2034,Cabecera Municipal,49544
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2034,Centros Poblados y Rural Disperso,14266
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2034,Total,63810
+91,Amazonas,2034,Cabecera Municipal,46529
+91,Amazonas,2034,Centros Poblados y Rural Disperso,43682
+91,Amazonas,2034,Total,90211
+94,Guainía,2034,Cabecera Municipal,32646
+94,Guainía,2034,Centros Poblados y Rural Disperso,37272
+94,Guainía,2034,Total,69918
+95,Guaviare,2034,Cabecera Municipal,45492
+95,Guaviare,2034,Centros Poblados y Rural Disperso,39194
+95,Guaviare,2034,Total,84686
+97,Vaupés,2034,Cabecera Municipal,10568
+97,Vaupés,2034,Centros Poblados y Rural Disperso,35957
+97,Vaupés,2034,Total,46525
+99,Vichada,2034,Cabecera Municipal,33416
+99,Vichada,2034,Centros Poblados y Rural Disperso,160639
+99,Vichada,2034,Total,194055
+05,Antioquia,2035,Cabecera Municipal,5720375
+05,Antioquia,2035,Centros Poblados y Rural Disperso,1437648
+05,Antioquia,2035,Total,7158023
+08,Atlántico,2035,Cabecera Municipal,2869756
+08,Atlántico,2035,Centros Poblados y Rural Disperso,154183
+08,Atlántico,2035,Total,3023939
+11,"Bogotá, D.C.",2035,Cabecera Municipal,7781000
+11,"Bogotá, D.C.",2035,Centros Poblados y Rural Disperso,33324
+11,"Bogotá, D.C.",2035,Total,7814324
+13,Bolívar,2035,Cabecera Municipal,1684102
+13,Bolívar,2035,Centros Poblados y Rural Disperso,617764
+13,Bolívar,2035,Total,2301866
+15,Boyacá,2035,Cabecera Municipal,858826
+15,Boyacá,2035,Centros Poblados y Rural Disperso,468061
+15,Boyacá,2035,Total,1326887
+17,Caldas,2035,Cabecera Municipal,847743
+17,Caldas,2035,Centros Poblados y Rural Disperso,210150
+17,Caldas,2035,Total,1057893
+18,Caquetá,2035,Cabecera Municipal,288606
+18,Caquetá,2035,Centros Poblados y Rural Disperso,159301
+18,Caquetá,2035,Total,447907
+19,Cauca,2035,Cabecera Municipal,598208
+19,Cauca,2035,Centros Poblados y Rural Disperso,1112618
+19,Cauca,2035,Total,1710826
+20,Cesar,2035,Cabecera Municipal,1272862
+20,Cesar,2035,Centros Poblados y Rural Disperso,409327
+20,Cesar,2035,Total,1682189
+23,Córdoba,2035,Cabecera Municipal,1149392
+23,Córdoba,2035,Centros Poblados y Rural Disperso,1016769
+23,Córdoba,2035,Total,2166161
+25,Cundinamarca,2035,Cabecera Municipal,3350034
+25,Cundinamarca,2035,Centros Poblados y Rural Disperso,804270
+25,Cundinamarca,2035,Total,4154304
+27,Chocó,2035,Cabecera Municipal,280423
+27,Chocó,2035,Centros Poblados y Rural Disperso,362085
+27,Chocó,2035,Total,642508
+41,Huila,2035,Cabecera Municipal,806991
+41,Huila,2035,Centros Poblados y Rural Disperso,507628
+41,Huila,2035,Total,1314619
+44,La Guajira,2035,Cabecera Municipal,620231
+44,La Guajira,2035,Centros Poblados y Rural Disperso,582327
+44,La Guajira,2035,Total,1202558
+47,Magdalena,2035,Cabecera Municipal,1117844
+47,Magdalena,2035,Centros Poblados y Rural Disperso,527569
+47,Magdalena,2035,Total,1645413
+50,Meta,2035,Cabecera Municipal,920634
+50,Meta,2035,Centros Poblados y Rural Disperso,315384
+50,Meta,2035,Total,1236018
+52,Nariño,2035,Cabecera Municipal,780064
+52,Nariño,2035,Centros Poblados y Rural Disperso,987828
+52,Nariño,2035,Total,1767892
+54,Norte de Santander,2035,Cabecera Municipal,1364348
+54,Norte de Santander,2035,Centros Poblados y Rural Disperso,396470
+54,Norte de Santander,2035,Total,1760818
+63,Quindío,2035,Cabecera Municipal,477712
+63,Quindío,2035,Centros Poblados y Rural Disperso,69521
+63,Quindío,2035,Total,547233
+66,Risaralda,2035,Cabecera Municipal,834855
+66,Risaralda,2035,Centros Poblados y Rural Disperso,184494
+66,Risaralda,2035,Total,1019349
+68,Santander,2035,Cabecera Municipal,1946394
+68,Santander,2035,Centros Poblados y Rural Disperso,533331
+68,Santander,2035,Total,2479725
+70,Sucre,2035,Cabecera Municipal,721809
+70,Sucre,2035,Centros Poblados y Rural Disperso,419257
+70,Sucre,2035,Total,1141066
+73,Tolima,2035,Cabecera Municipal,975827
+73,Tolima,2035,Centros Poblados y Rural Disperso,429565
+73,Tolima,2035,Total,1405392
+76,Valle del Cauca,2035,Cabecera Municipal,3971334
+76,Valle del Cauca,2035,Centros Poblados y Rural Disperso,722388
+76,Valle del Cauca,2035,Total,4693722
+81,Arauca,2035,Cabecera Municipal,177908
+81,Arauca,2035,Centros Poblados y Rural Disperso,103244
+81,Arauca,2035,Total,281152
+85,Casanare,2035,Cabecera Municipal,381320
+85,Casanare,2035,Centros Poblados y Rural Disperso,130202
+85,Casanare,2035,Total,511522
+86,Putumayo,2035,Cabecera Municipal,223848
+86,Putumayo,2035,Centros Poblados y Rural Disperso,204697
+86,Putumayo,2035,Total,428545
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2035,Cabecera Municipal,49723
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2035,Centros Poblados y Rural Disperso,14064
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2035,Total,63787
+91,Amazonas,2035,Cabecera Municipal,46626
+91,Amazonas,2035,Centros Poblados y Rural Disperso,43855
+91,Amazonas,2035,Total,90481
+94,Guainía,2035,Cabecera Municipal,32926
+94,Guainía,2035,Centros Poblados y Rural Disperso,37793
+94,Guainía,2035,Total,70719
+95,Guaviare,2035,Cabecera Municipal,45195
+95,Guaviare,2035,Centros Poblados y Rural Disperso,39369
+95,Guaviare,2035,Total,84564
+97,Vaupés,2035,Cabecera Municipal,10443
+97,Vaupés,2035,Centros Poblados y Rural Disperso,36295
+97,Vaupés,2035,Total,46738
+99,Vichada,2035,Cabecera Municipal,33603
+99,Vichada,2035,Centros Poblados y Rural Disperso,164761
+99,Vichada,2035,Total,198364
+05,Antioquia,2036,Cabecera Municipal,5735233
+05,Antioquia,2036,Centros Poblados y Rural Disperso,1431181
+05,Antioquia,2036,Total,7166414
+08,Atlántico,2036,Cabecera Municipal,2880484
+08,Atlántico,2036,Centros Poblados y Rural Disperso,154973
+08,Atlántico,2036,Total,3035457
+11,"Bogotá, D.C.",2036,Cabecera Municipal,7752348
+11,"Bogotá, D.C.",2036,Centros Poblados y Rural Disperso,33231
+11,"Bogotá, D.C.",2036,Total,7785579
+13,Bolívar,2036,Cabecera Municipal,1684823
+13,Bolívar,2036,Centros Poblados y Rural Disperso,619677
+13,Bolívar,2036,Total,2304500
+15,Boyacá,2036,Cabecera Municipal,868536
+15,Boyacá,2036,Centros Poblados y Rural Disperso,462125
+15,Boyacá,2036,Total,1330661
+17,Caldas,2036,Cabecera Municipal,848941
+17,Caldas,2036,Centros Poblados y Rural Disperso,206775
+17,Caldas,2036,Total,1055716
+18,Caquetá,2036,Cabecera Municipal,288509
+18,Caquetá,2036,Centros Poblados y Rural Disperso,160317
+18,Caquetá,2036,Total,448826
+19,Cauca,2036,Cabecera Municipal,599789
+19,Cauca,2036,Centros Poblados y Rural Disperso,1118496
+19,Cauca,2036,Total,1718285
+20,Cesar,2036,Cabecera Municipal,1287344
+20,Cesar,2036,Centros Poblados y Rural Disperso,412751
+20,Cesar,2036,Total,1700095
+23,Córdoba,2036,Cabecera Municipal,1158164
+23,Córdoba,2036,Centros Poblados y Rural Disperso,1021050
+23,Córdoba,2036,Total,2179214
+25,Cundinamarca,2036,Cabecera Municipal,3408319
+25,Cundinamarca,2036,Centros Poblados y Rural Disperso,800088
+25,Cundinamarca,2036,Total,4208407
+27,Chocó,2036,Cabecera Municipal,281730
+27,Chocó,2036,Centros Poblados y Rural Disperso,364226
+27,Chocó,2036,Total,645956
+41,Huila,2036,Cabecera Municipal,812050
+41,Huila,2036,Centros Poblados y Rural Disperso,510056
+41,Huila,2036,Total,1322106
+44,La Guajira,2036,Cabecera Municipal,626893
+44,La Guajira,2036,Centros Poblados y Rural Disperso,587054
+44,La Guajira,2036,Total,1213947
+47,Magdalena,2036,Cabecera Municipal,1121603
+47,Magdalena,2036,Centros Poblados y Rural Disperso,529974
+47,Magdalena,2036,Total,1651577
+50,Meta,2036,Cabecera Municipal,923537
+50,Meta,2036,Centros Poblados y Rural Disperso,318077
+50,Meta,2036,Total,1241614
+52,Nariño,2036,Cabecera Municipal,781219
+52,Nariño,2036,Centros Poblados y Rural Disperso,988967
+52,Nariño,2036,Total,1770186
+54,Norte de Santander,2036,Cabecera Municipal,1365838
+54,Norte de Santander,2036,Centros Poblados y Rural Disperso,397708
+54,Norte de Santander,2036,Total,1763546
+63,Quindío,2036,Cabecera Municipal,475826
+63,Quindío,2036,Centros Poblados y Rural Disperso,69006
+63,Quindío,2036,Total,544832
+66,Risaralda,2036,Cabecera Municipal,836651
+66,Risaralda,2036,Centros Poblados y Rural Disperso,181827
+66,Risaralda,2036,Total,1018478
+68,Santander,2036,Cabecera Municipal,1953778
+68,Santander,2036,Centros Poblados y Rural Disperso,530299
+68,Santander,2036,Total,2484077
+70,Sucre,2036,Cabecera Municipal,727214
+70,Sucre,2036,Centros Poblados y Rural Disperso,422006
+70,Sucre,2036,Total,1149220
+73,Tolima,2036,Cabecera Municipal,976684
+73,Tolima,2036,Centros Poblados y Rural Disperso,427235
+73,Tolima,2036,Total,1403919
+76,Valle del Cauca,2036,Cabecera Municipal,3960065
+76,Valle del Cauca,2036,Centros Poblados y Rural Disperso,723143
+76,Valle del Cauca,2036,Total,4683208
+81,Arauca,2036,Cabecera Municipal,177224
+81,Arauca,2036,Centros Poblados y Rural Disperso,103398
+81,Arauca,2036,Total,280622
+85,Casanare,2036,Cabecera Municipal,384028
+85,Casanare,2036,Centros Poblados y Rural Disperso,130191
+85,Casanare,2036,Total,514219
+86,Putumayo,2036,Cabecera Municipal,225004
+86,Putumayo,2036,Centros Poblados y Rural Disperso,205994
+86,Putumayo,2036,Total,430998
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2036,Cabecera Municipal,49880
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2036,Centros Poblados y Rural Disperso,13898
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2036,Total,63778
+91,Amazonas,2036,Cabecera Municipal,46663
+91,Amazonas,2036,Centros Poblados y Rural Disperso,44080
+91,Amazonas,2036,Total,90743
+94,Guainía,2036,Cabecera Municipal,33158
+94,Guainía,2036,Centros Poblados y Rural Disperso,38328
+94,Guainía,2036,Total,71486
+95,Guaviare,2036,Cabecera Municipal,44874
+95,Guaviare,2036,Centros Poblados y Rural Disperso,39542
+95,Guaviare,2036,Total,84416
+97,Vaupés,2036,Cabecera Municipal,10327
+97,Vaupés,2036,Centros Poblados y Rural Disperso,36637
+97,Vaupés,2036,Total,46964
+99,Vichada,2036,Cabecera Municipal,33771
+99,Vichada,2036,Centros Poblados y Rural Disperso,168761
+99,Vichada,2036,Total,202532
+05,Antioquia,2037,Cabecera Municipal,5747915
+05,Antioquia,2037,Centros Poblados y Rural Disperso,1424107
+05,Antioquia,2037,Total,7172022
+08,Atlántico,2037,Cabecera Municipal,2890516
+08,Atlántico,2037,Centros Poblados y Rural Disperso,155733
+08,Atlántico,2037,Total,3046249
+11,"Bogotá, D.C.",2037,Cabecera Municipal,7720962
+11,"Bogotá, D.C.",2037,Centros Poblados y Rural Disperso,33079
+11,"Bogotá, D.C.",2037,Total,7754041
+13,Bolívar,2037,Cabecera Municipal,1685382
+13,Bolívar,2037,Centros Poblados y Rural Disperso,621388
+13,Bolívar,2037,Total,2306770
+15,Boyacá,2037,Cabecera Municipal,877814
+15,Boyacá,2037,Centros Poblados y Rural Disperso,455937
+15,Boyacá,2037,Total,1333751
+17,Caldas,2037,Cabecera Municipal,849642
+17,Caldas,2037,Centros Poblados y Rural Disperso,203257
+17,Caldas,2037,Total,1052899
+18,Caquetá,2037,Cabecera Municipal,288281
+18,Caquetá,2037,Centros Poblados y Rural Disperso,161347
+18,Caquetá,2037,Total,449628
+19,Cauca,2037,Cabecera Municipal,601291
+19,Cauca,2037,Centros Poblados y Rural Disperso,1123820
+19,Cauca,2037,Total,1725111
+20,Cesar,2037,Cabecera Municipal,1301453
+20,Cesar,2037,Centros Poblados y Rural Disperso,416042
+20,Cesar,2037,Total,1717495
+23,Córdoba,2037,Cabecera Municipal,1166675
+23,Córdoba,2037,Centros Poblados y Rural Disperso,1024852
+23,Córdoba,2037,Total,2191527
+25,Cundinamarca,2037,Cabecera Municipal,3465766
+25,Cundinamarca,2037,Centros Poblados y Rural Disperso,795835
+25,Cundinamarca,2037,Total,4261601
+27,Chocó,2037,Cabecera Municipal,282773
+27,Chocó,2037,Centros Poblados y Rural Disperso,366380
+27,Chocó,2037,Total,649153
+41,Huila,2037,Cabecera Municipal,816821
+41,Huila,2037,Centros Poblados y Rural Disperso,512358
+41,Huila,2037,Total,1329179
+44,La Guajira,2037,Cabecera Municipal,633199
+44,La Guajira,2037,Centros Poblados y Rural Disperso,591719
+44,La Guajira,2037,Total,1224918
+47,Magdalena,2037,Cabecera Municipal,1125018
+47,Magdalena,2037,Centros Poblados y Rural Disperso,532033
+47,Magdalena,2037,Total,1657051
+50,Meta,2037,Cabecera Municipal,926232
+50,Meta,2037,Centros Poblados y Rural Disperso,320704
+50,Meta,2037,Total,1246936
+52,Nariño,2037,Cabecera Municipal,782070
+52,Nariño,2037,Centros Poblados y Rural Disperso,989784
+52,Nariño,2037,Total,1771854
+54,Norte de Santander,2037,Cabecera Municipal,1367282
+54,Norte de Santander,2037,Centros Poblados y Rural Disperso,398826
+54,Norte de Santander,2037,Total,1766108
+63,Quindío,2037,Cabecera Municipal,473747
+63,Quindío,2037,Centros Poblados y Rural Disperso,68442
+63,Quindío,2037,Total,542189
+66,Risaralda,2037,Cabecera Municipal,838062
+66,Risaralda,2037,Centros Poblados y Rural Disperso,179156
+66,Risaralda,2037,Total,1017218
+68,Santander,2037,Cabecera Municipal,1960558
+68,Santander,2037,Centros Poblados y Rural Disperso,527062
+68,Santander,2037,Total,2487620
+70,Sucre,2037,Cabecera Municipal,732384
+70,Sucre,2037,Centros Poblados y Rural Disperso,424679
+70,Sucre,2037,Total,1157063
+73,Tolima,2037,Cabecera Municipal,977142
+73,Tolima,2037,Centros Poblados y Rural Disperso,424641
+73,Tolima,2037,Total,1401783
+76,Valle del Cauca,2037,Cabecera Municipal,3947272
+76,Valle del Cauca,2037,Centros Poblados y Rural Disperso,723818
+76,Valle del Cauca,2037,Total,4671090
+81,Arauca,2037,Cabecera Municipal,176501
+81,Arauca,2037,Centros Poblados y Rural Disperso,103523
+81,Arauca,2037,Total,280024
+85,Casanare,2037,Cabecera Municipal,386485
+85,Casanare,2037,Centros Poblados y Rural Disperso,130167
+85,Casanare,2037,Total,516652
+86,Putumayo,2037,Cabecera Municipal,226019
+86,Putumayo,2037,Centros Poblados y Rural Disperso,207270
+86,Putumayo,2037,Total,433289
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2037,Cabecera Municipal,50053
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2037,Centros Poblados y Rural Disperso,13734
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2037,Total,63787
+91,Amazonas,2037,Cabecera Municipal,46628
+91,Amazonas,2037,Centros Poblados y Rural Disperso,44277
+91,Amazonas,2037,Total,90905
+94,Guainía,2037,Cabecera Municipal,33338
+94,Guainía,2037,Centros Poblados y Rural Disperso,38831
+94,Guainía,2037,Total,72169
+95,Guaviare,2037,Cabecera Municipal,44525
+95,Guaviare,2037,Centros Poblados y Rural Disperso,39738
+95,Guaviare,2037,Total,84263
+97,Vaupés,2037,Cabecera Municipal,10223
+97,Vaupés,2037,Centros Poblados y Rural Disperso,36946
+97,Vaupés,2037,Total,47169
+99,Vichada,2037,Cabecera Municipal,33931
+99,Vichada,2037,Centros Poblados y Rural Disperso,172597
+99,Vichada,2037,Total,206528
+05,Antioquia,2038,Cabecera Municipal,5758425
+05,Antioquia,2038,Centros Poblados y Rural Disperso,1416580
+05,Antioquia,2038,Total,7175005
+08,Atlántico,2038,Cabecera Municipal,2899951
+08,Atlántico,2038,Centros Poblados y Rural Disperso,156451
+08,Atlántico,2038,Total,3056402
+11,"Bogotá, D.C.",2038,Cabecera Municipal,7686894
+11,"Bogotá, D.C.",2038,Centros Poblados y Rural Disperso,32880
+11,"Bogotá, D.C.",2038,Total,7719774
+13,Bolívar,2038,Cabecera Municipal,1685589
+13,Bolívar,2038,Centros Poblados y Rural Disperso,622912
+13,Bolívar,2038,Total,2308501
+15,Boyacá,2038,Cabecera Municipal,886780
+15,Boyacá,2038,Centros Poblados y Rural Disperso,449714
+15,Boyacá,2038,Total,1336494
+17,Caldas,2038,Cabecera Municipal,849886
+17,Caldas,2038,Centros Poblados y Rural Disperso,199803
+17,Caldas,2038,Total,1049689
+18,Caquetá,2038,Cabecera Municipal,287895
+18,Caquetá,2038,Centros Poblados y Rural Disperso,162388
+18,Caquetá,2038,Total,450283
+19,Cauca,2038,Cabecera Municipal,602573
+19,Cauca,2038,Centros Poblados y Rural Disperso,1128551
+19,Cauca,2038,Total,1731124
+20,Cesar,2038,Cabecera Municipal,1315178
+20,Cesar,2038,Centros Poblados y Rural Disperso,419194
+20,Cesar,2038,Total,1734372
+23,Córdoba,2038,Cabecera Municipal,1174880
+23,Córdoba,2038,Centros Poblados y Rural Disperso,1028291
+23,Córdoba,2038,Total,2203171
+25,Cundinamarca,2038,Cabecera Municipal,3522261
+25,Cundinamarca,2038,Centros Poblados y Rural Disperso,791432
+25,Cundinamarca,2038,Total,4313693
+27,Chocó,2038,Cabecera Municipal,283768
+27,Chocó,2038,Centros Poblados y Rural Disperso,368348
+27,Chocó,2038,Total,652116
+41,Huila,2038,Cabecera Municipal,821247
+41,Huila,2038,Centros Poblados y Rural Disperso,514433
+41,Huila,2038,Total,1335680
+44,La Guajira,2038,Cabecera Municipal,639222
+44,La Guajira,2038,Centros Poblados y Rural Disperso,596338
+44,La Guajira,2038,Total,1235560
+47,Magdalena,2038,Cabecera Municipal,1128247
+47,Magdalena,2038,Centros Poblados y Rural Disperso,533837
+47,Magdalena,2038,Total,1662084
+50,Meta,2038,Cabecera Municipal,928650
+50,Meta,2038,Centros Poblados y Rural Disperso,323178
+50,Meta,2038,Total,1251828
+52,Nariño,2038,Cabecera Municipal,782714
+52,Nariño,2038,Centros Poblados y Rural Disperso,990325
+52,Nariño,2038,Total,1773039
+54,Norte de Santander,2038,Cabecera Municipal,1368619
+54,Norte de Santander,2038,Centros Poblados y Rural Disperso,399644
+54,Norte de Santander,2038,Total,1768263
+63,Quindío,2038,Cabecera Municipal,471421
+63,Quindío,2038,Centros Poblados y Rural Disperso,67823
+63,Quindío,2038,Total,539244
+66,Risaralda,2038,Cabecera Municipal,839067
+66,Risaralda,2038,Centros Poblados y Rural Disperso,176315
+66,Risaralda,2038,Total,1015382
+68,Santander,2038,Cabecera Municipal,1966721
+68,Santander,2038,Centros Poblados y Rural Disperso,523669
+68,Santander,2038,Total,2490390
+70,Sucre,2038,Cabecera Municipal,737250
+70,Sucre,2038,Centros Poblados y Rural Disperso,427195
+70,Sucre,2038,Total,1164445
+73,Tolima,2038,Cabecera Municipal,977230
+73,Tolima,2038,Centros Poblados y Rural Disperso,421815
+73,Tolima,2038,Total,1399045
+76,Valle del Cauca,2038,Cabecera Municipal,3933025
+76,Valle del Cauca,2038,Centros Poblados y Rural Disperso,724344
+76,Valle del Cauca,2038,Total,4657369
+81,Arauca,2038,Cabecera Municipal,175677
+81,Arauca,2038,Centros Poblados y Rural Disperso,103577
+81,Arauca,2038,Total,279254
+85,Casanare,2038,Cabecera Municipal,388767
+85,Casanare,2038,Centros Poblados y Rural Disperso,130228
+85,Casanare,2038,Total,518995
+86,Putumayo,2038,Cabecera Municipal,226867
+86,Putumayo,2038,Centros Poblados y Rural Disperso,208572
+86,Putumayo,2038,Total,435439
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2038,Cabecera Municipal,50203
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2038,Centros Poblados y Rural Disperso,13577
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2038,Total,63780
+91,Amazonas,2038,Cabecera Municipal,46565
+91,Amazonas,2038,Centros Poblados y Rural Disperso,44507
+91,Amazonas,2038,Total,91072
+94,Guainía,2038,Cabecera Municipal,33469
+94,Guainía,2038,Centros Poblados y Rural Disperso,39334
+94,Guainía,2038,Total,72803
+95,Guaviare,2038,Cabecera Municipal,44167
+95,Guaviare,2038,Centros Poblados y Rural Disperso,39924
+95,Guaviare,2038,Total,84091
+97,Vaupés,2038,Cabecera Municipal,10133
+97,Vaupés,2038,Centros Poblados y Rural Disperso,37225
+97,Vaupés,2038,Total,47358
+99,Vichada,2038,Cabecera Municipal,34070
+99,Vichada,2038,Centros Poblados y Rural Disperso,176264
+99,Vichada,2038,Total,210334
+05,Antioquia,2039,Cabecera Municipal,5766566
+05,Antioquia,2039,Centros Poblados y Rural Disperso,1408563
+05,Antioquia,2039,Total,7175129
+08,Atlántico,2039,Cabecera Municipal,2908738
+08,Atlántico,2039,Centros Poblados y Rural Disperso,157222
+08,Atlántico,2039,Total,3065960
+11,"Bogotá, D.C.",2039,Cabecera Municipal,7650135
+11,"Bogotá, D.C.",2039,Centros Poblados y Rural Disperso,32639
+11,"Bogotá, D.C.",2039,Total,7682774
+13,Bolívar,2039,Cabecera Municipal,1685748
+13,Bolívar,2039,Centros Poblados y Rural Disperso,624214
+13,Bolívar,2039,Total,2309962
+15,Boyacá,2039,Cabecera Municipal,895316
+15,Boyacá,2039,Centros Poblados y Rural Disperso,443103
+15,Boyacá,2039,Total,1338419
+17,Caldas,2039,Cabecera Municipal,849621
+17,Caldas,2039,Centros Poblados y Rural Disperso,196242
+17,Caldas,2039,Total,1045863
+18,Caquetá,2039,Cabecera Municipal,287379
+18,Caquetá,2039,Centros Poblados y Rural Disperso,163458
+18,Caquetá,2039,Total,450837
+19,Cauca,2039,Cabecera Municipal,603848
+19,Cauca,2039,Centros Poblados y Rural Disperso,1132724
+19,Cauca,2039,Total,1736572
+20,Cesar,2039,Cabecera Municipal,1328596
+20,Cesar,2039,Centros Poblados y Rural Disperso,422268
+20,Cesar,2039,Total,1750864
+23,Córdoba,2039,Cabecera Municipal,1182800
+23,Córdoba,2039,Centros Poblados y Rural Disperso,1031407
+23,Córdoba,2039,Total,2214207
+25,Cundinamarca,2039,Cabecera Municipal,3577817
+25,Cundinamarca,2039,Centros Poblados y Rural Disperso,786911
+25,Cundinamarca,2039,Total,4364728
+27,Chocó,2039,Cabecera Municipal,284792
+27,Chocó,2039,Centros Poblados y Rural Disperso,370151
+27,Chocó,2039,Total,654943
+41,Huila,2039,Cabecera Municipal,825376
+41,Huila,2039,Centros Poblados y Rural Disperso,516309
+41,Huila,2039,Total,1341685
+44,La Guajira,2039,Cabecera Municipal,644926
+44,La Guajira,2039,Centros Poblados y Rural Disperso,600816
+44,La Guajira,2039,Total,1245742
+47,Magdalena,2039,Cabecera Municipal,1131065
+47,Magdalena,2039,Centros Poblados y Rural Disperso,535275
+47,Magdalena,2039,Total,1666340
+50,Meta,2039,Cabecera Municipal,930932
+50,Meta,2039,Centros Poblados y Rural Disperso,325553
+50,Meta,2039,Total,1256485
+52,Nariño,2039,Cabecera Municipal,783113
+52,Nariño,2039,Centros Poblados y Rural Disperso,990515
+52,Nariño,2039,Total,1773628
+54,Norte de Santander,2039,Cabecera Municipal,1369899
+54,Norte de Santander,2039,Centros Poblados y Rural Disperso,400301
+54,Norte de Santander,2039,Total,1770200
+63,Quindío,2039,Cabecera Municipal,468961
+63,Quindío,2039,Centros Poblados y Rural Disperso,67111
+63,Quindío,2039,Total,536072
+66,Risaralda,2039,Cabecera Municipal,839608
+66,Risaralda,2039,Centros Poblados y Rural Disperso,173463
+66,Risaralda,2039,Total,1013071
+68,Santander,2039,Cabecera Municipal,1972373
+68,Santander,2039,Centros Poblados y Rural Disperso,520282
+68,Santander,2039,Total,2492655
+70,Sucre,2039,Cabecera Municipal,741852
+70,Sucre,2039,Centros Poblados y Rural Disperso,429627
+70,Sucre,2039,Total,1171479
+73,Tolima,2039,Cabecera Municipal,976826
+73,Tolima,2039,Centros Poblados y Rural Disperso,418822
+73,Tolima,2039,Total,1395648
+76,Valle del Cauca,2039,Cabecera Municipal,3917182
+76,Valle del Cauca,2039,Centros Poblados y Rural Disperso,724798
+76,Valle del Cauca,2039,Total,4641980
+81,Arauca,2039,Cabecera Municipal,174789
+81,Arauca,2039,Centros Poblados y Rural Disperso,103618
+81,Arauca,2039,Total,278407
+85,Casanare,2039,Cabecera Municipal,390765
+85,Casanare,2039,Centros Poblados y Rural Disperso,130313
+85,Casanare,2039,Total,521078
+86,Putumayo,2039,Cabecera Municipal,227539
+86,Putumayo,2039,Centros Poblados y Rural Disperso,209808
+86,Putumayo,2039,Total,437347
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2039,Cabecera Municipal,50308
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2039,Centros Poblados y Rural Disperso,13449
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2039,Total,63757
+91,Amazonas,2039,Cabecera Municipal,46446
+91,Amazonas,2039,Centros Poblados y Rural Disperso,44785
+91,Amazonas,2039,Total,91231
+94,Guainía,2039,Cabecera Municipal,33577
+94,Guainía,2039,Centros Poblados y Rural Disperso,39829
+94,Guainía,2039,Total,73406
+95,Guaviare,2039,Cabecera Municipal,43781
+95,Guaviare,2039,Centros Poblados y Rural Disperso,40092
+95,Guaviare,2039,Total,83873
+97,Vaupés,2039,Cabecera Municipal,10055
+97,Vaupés,2039,Centros Poblados y Rural Disperso,37503
+97,Vaupés,2039,Total,47558
+99,Vichada,2039,Cabecera Municipal,34193
+99,Vichada,2039,Centros Poblados y Rural Disperso,179803
+99,Vichada,2039,Total,213996
+05,Antioquia,2040,Cabecera Municipal,5772476
+05,Antioquia,2040,Centros Poblados y Rural Disperso,1400217
+05,Antioquia,2040,Total,7172693
+08,Atlántico,2040,Cabecera Municipal,2916937
+08,Atlántico,2040,Centros Poblados y Rural Disperso,157922
+08,Atlántico,2040,Total,3074859
+11,"Bogotá, D.C.",2040,Cabecera Municipal,7610767
+11,"Bogotá, D.C.",2040,Centros Poblados y Rural Disperso,32359
+11,"Bogotá, D.C.",2040,Total,7643126
+13,Bolívar,2040,Cabecera Municipal,1685556
+13,Bolívar,2040,Centros Poblados y Rural Disperso,625354
+13,Bolívar,2040,Total,2310910
+15,Boyacá,2040,Cabecera Municipal,903405
+15,Boyacá,2040,Centros Poblados y Rural Disperso,436474
+15,Boyacá,2040,Total,1339879
+17,Caldas,2040,Cabecera Municipal,848921
+17,Caldas,2040,Centros Poblados y Rural Disperso,192675
+17,Caldas,2040,Total,1041596
+18,Caquetá,2040,Cabecera Municipal,286793
+18,Caquetá,2040,Centros Poblados y Rural Disperso,164496
+18,Caquetá,2040,Total,451289
+19,Cauca,2040,Cabecera Municipal,604923
+19,Cauca,2040,Centros Poblados y Rural Disperso,1136383
+19,Cauca,2040,Total,1741306
+20,Cesar,2040,Cabecera Municipal,1341540
+20,Cesar,2040,Centros Poblados y Rural Disperso,425067
+20,Cesar,2040,Total,1766607
+23,Córdoba,2040,Cabecera Municipal,1190411
+23,Córdoba,2040,Centros Poblados y Rural Disperso,1034092
+23,Córdoba,2040,Total,2224503
+25,Cundinamarca,2040,Cabecera Municipal,3632428
+25,Cundinamarca,2040,Centros Poblados y Rural Disperso,782237
+25,Cundinamarca,2040,Total,4414665
+27,Chocó,2040,Cabecera Municipal,285797
+27,Chocó,2040,Centros Poblados y Rural Disperso,371716
+27,Chocó,2040,Total,657513
+41,Huila,2040,Cabecera Municipal,829232
+41,Huila,2040,Centros Poblados y Rural Disperso,517995
+41,Huila,2040,Total,1347227
+44,La Guajira,2040,Cabecera Municipal,650460
+44,La Guajira,2040,Centros Poblados y Rural Disperso,605327
+44,La Guajira,2040,Total,1255787
+47,Magdalena,2040,Cabecera Municipal,1133639
+47,Magdalena,2040,Centros Poblados y Rural Disperso,536540
+47,Magdalena,2040,Total,1670179
+50,Meta,2040,Cabecera Municipal,932860
+50,Meta,2040,Centros Poblados y Rural Disperso,327870
+50,Meta,2040,Total,1260730
+52,Nariño,2040,Cabecera Municipal,783309
+52,Nariño,2040,Centros Poblados y Rural Disperso,990549
+52,Nariño,2040,Total,1773858
+54,Norte de Santander,2040,Cabecera Municipal,1371063
+54,Norte de Santander,2040,Centros Poblados y Rural Disperso,400868
+54,Norte de Santander,2040,Total,1771931
+63,Quindío,2040,Cabecera Municipal,466247
+63,Quindío,2040,Centros Poblados y Rural Disperso,66325
+63,Quindío,2040,Total,532572
+66,Risaralda,2040,Cabecera Municipal,839684
+66,Risaralda,2040,Centros Poblados y Rural Disperso,170591
+66,Risaralda,2040,Total,1010275
+68,Santander,2040,Cabecera Municipal,1977484
+68,Santander,2040,Centros Poblados y Rural Disperso,516665
+68,Santander,2040,Total,2494149
+70,Sucre,2040,Cabecera Municipal,746244
+70,Sucre,2040,Centros Poblados y Rural Disperso,431913
+70,Sucre,2040,Total,1178157
+73,Tolima,2040,Cabecera Municipal,976001
+73,Tolima,2040,Centros Poblados y Rural Disperso,415630
+73,Tolima,2040,Total,1391631
+76,Valle del Cauca,2040,Cabecera Municipal,3899914
+76,Valle del Cauca,2040,Centros Poblados y Rural Disperso,725012
+76,Valle del Cauca,2040,Total,4624926
+81,Arauca,2040,Cabecera Municipal,173888
+81,Arauca,2040,Centros Poblados y Rural Disperso,103599
+81,Arauca,2040,Total,277487
+85,Casanare,2040,Cabecera Municipal,392592
+85,Casanare,2040,Centros Poblados y Rural Disperso,130312
+85,Casanare,2040,Total,522904
+86,Putumayo,2040,Cabecera Municipal,228011
+86,Putumayo,2040,Centros Poblados y Rural Disperso,211052
+86,Putumayo,2040,Total,439063
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2040,Cabecera Municipal,50432
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2040,Centros Poblados y Rural Disperso,13324
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2040,Total,63756
+91,Amazonas,2040,Cabecera Municipal,46307
+91,Amazonas,2040,Centros Poblados y Rural Disperso,44999
+91,Amazonas,2040,Total,91306
+94,Guainía,2040,Cabecera Municipal,33635
+94,Guainía,2040,Centros Poblados y Rural Disperso,40352
+94,Guainía,2040,Total,73987
+95,Guaviare,2040,Cabecera Municipal,43404
+95,Guaviare,2040,Centros Poblados y Rural Disperso,40284
+95,Guaviare,2040,Total,83688
+97,Vaupés,2040,Cabecera Municipal,9967
+97,Vaupés,2040,Centros Poblados y Rural Disperso,37767
+97,Vaupés,2040,Total,47734
+99,Vichada,2040,Cabecera Municipal,34286
+99,Vichada,2040,Centros Poblados y Rural Disperso,183183
+99,Vichada,2040,Total,217469
+05,Antioquia,2041,Cabecera Municipal,5776162
+05,Antioquia,2041,Centros Poblados y Rural Disperso,1391374
+05,Antioquia,2041,Total,7167536
+08,Atlántico,2041,Cabecera Municipal,2924521
+08,Atlántico,2041,Centros Poblados y Rural Disperso,158579
+08,Atlántico,2041,Total,3083100
+11,"Bogotá, D.C.",2041,Cabecera Municipal,7568827
+11,"Bogotá, D.C.",2041,Centros Poblados y Rural Disperso,32049
+11,"Bogotá, D.C.",2041,Total,7600876
+13,Bolívar,2041,Cabecera Municipal,1685231
+13,Bolívar,2041,Centros Poblados y Rural Disperso,626252
+13,Bolívar,2041,Total,2311483
+15,Boyacá,2041,Cabecera Municipal,911273
+15,Boyacá,2041,Centros Poblados y Rural Disperso,429765
+15,Boyacá,2041,Total,1341038
+17,Caldas,2041,Cabecera Municipal,847668
+17,Caldas,2041,Centros Poblados y Rural Disperso,189052
+17,Caldas,2041,Total,1036720
+18,Caquetá,2041,Cabecera Municipal,286160
+18,Caquetá,2041,Centros Poblados y Rural Disperso,165573
+18,Caquetá,2041,Total,451733
+19,Cauca,2041,Cabecera Municipal,605727
+19,Cauca,2041,Centros Poblados y Rural Disperso,1139510
+19,Cauca,2041,Total,1745237
+20,Cesar,2041,Cabecera Municipal,1354222
+20,Cesar,2041,Centros Poblados y Rural Disperso,427772
+20,Cesar,2041,Total,1781994
+23,Córdoba,2041,Cabecera Municipal,1197692
+23,Córdoba,2041,Centros Poblados y Rural Disperso,1036539
+23,Córdoba,2041,Total,2234231
+25,Cundinamarca,2041,Cabecera Municipal,3685854
+25,Cundinamarca,2041,Centros Poblados y Rural Disperso,777351
+25,Cundinamarca,2041,Total,4463205
+27,Chocó,2041,Cabecera Municipal,286798
+27,Chocó,2041,Centros Poblados y Rural Disperso,373291
+27,Chocó,2041,Total,660089
+41,Huila,2041,Cabecera Municipal,832807
+41,Huila,2041,Centros Poblados y Rural Disperso,519486
+41,Huila,2041,Total,1352293
+44,La Guajira,2041,Cabecera Municipal,655646
+44,La Guajira,2041,Centros Poblados y Rural Disperso,609759
+44,La Guajira,2041,Total,1265405
+47,Magdalena,2041,Cabecera Municipal,1135923
+47,Magdalena,2041,Centros Poblados y Rural Disperso,537577
+47,Magdalena,2041,Total,1673500
+50,Meta,2041,Cabecera Municipal,934537
+50,Meta,2041,Centros Poblados y Rural Disperso,330068
+50,Meta,2041,Total,1264605
+52,Nariño,2041,Cabecera Municipal,783296
+52,Nariño,2041,Centros Poblados y Rural Disperso,990118
+52,Nariño,2041,Total,1773414
+54,Norte de Santander,2041,Cabecera Municipal,1372175
+54,Norte de Santander,2041,Centros Poblados y Rural Disperso,401169
+54,Norte de Santander,2041,Total,1773344
+63,Quindío,2041,Cabecera Municipal,463331
+63,Quindío,2041,Centros Poblados y Rural Disperso,65548
+63,Quindío,2041,Total,528879
+66,Risaralda,2041,Cabecera Municipal,839388
+66,Risaralda,2041,Centros Poblados y Rural Disperso,167583
+66,Risaralda,2041,Total,1006971
+68,Santander,2041,Cabecera Municipal,1981935
+68,Santander,2041,Centros Poblados y Rural Disperso,512978
+68,Santander,2041,Total,2494913
+70,Sucre,2041,Cabecera Municipal,750388
+70,Sucre,2041,Centros Poblados y Rural Disperso,434066
+70,Sucre,2041,Total,1184454
+73,Tolima,2041,Cabecera Municipal,974736
+73,Tolima,2041,Centros Poblados y Rural Disperso,412298
+73,Tolima,2041,Total,1387034
+76,Valle del Cauca,2041,Cabecera Municipal,3881257
+76,Valle del Cauca,2041,Centros Poblados y Rural Disperso,725166
+76,Valle del Cauca,2041,Total,4606423
+81,Arauca,2041,Cabecera Municipal,172881
+81,Arauca,2041,Centros Poblados y Rural Disperso,103562
+81,Arauca,2041,Total,276443
+85,Casanare,2041,Cabecera Municipal,394260
+85,Casanare,2041,Centros Poblados y Rural Disperso,130364
+85,Casanare,2041,Total,524624
+86,Putumayo,2041,Cabecera Municipal,228352
+86,Putumayo,2041,Centros Poblados y Rural Disperso,212268
+86,Putumayo,2041,Total,440620
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2041,Cabecera Municipal,50519
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2041,Centros Poblados y Rural Disperso,13213
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2041,Total,63732
+91,Amazonas,2041,Cabecera Municipal,46117
+91,Amazonas,2041,Centros Poblados y Rural Disperso,45250
+91,Amazonas,2041,Total,91367
+94,Guainía,2041,Cabecera Municipal,33647
+94,Guainía,2041,Centros Poblados y Rural Disperso,40810
+94,Guainía,2041,Total,74457
+95,Guaviare,2041,Cabecera Municipal,43003
+95,Guaviare,2041,Centros Poblados y Rural Disperso,40490
+95,Guaviare,2041,Total,83493
+97,Vaupés,2041,Cabecera Municipal,9868
+97,Vaupés,2041,Centros Poblados y Rural Disperso,38056
+97,Vaupés,2041,Total,47924
+99,Vichada,2041,Cabecera Municipal,34397
+99,Vichada,2041,Centros Poblados y Rural Disperso,186390
+99,Vichada,2041,Total,220787
+05,Antioquia,2042,Cabecera Municipal,5777602
+05,Antioquia,2042,Centros Poblados y Rural Disperso,1382132
+05,Antioquia,2042,Total,7159734
+08,Atlántico,2042,Cabecera Municipal,2931575
+08,Atlántico,2042,Centros Poblados y Rural Disperso,159171
+08,Atlántico,2042,Total,3090746
+11,"Bogotá, D.C.",2042,Cabecera Municipal,7524334
+11,"Bogotá, D.C.",2042,Centros Poblados y Rural Disperso,31707
+11,"Bogotá, D.C.",2042,Total,7556041
+13,Bolívar,2042,Cabecera Municipal,1684732
+13,Bolívar,2042,Centros Poblados y Rural Disperso,627036
+13,Bolívar,2042,Total,2311768
+15,Boyacá,2042,Cabecera Municipal,918530
+15,Boyacá,2042,Centros Poblados y Rural Disperso,422811
+15,Boyacá,2042,Total,1341341
+17,Caldas,2042,Cabecera Municipal,846066
+17,Caldas,2042,Centros Poblados y Rural Disperso,185467
+17,Caldas,2042,Total,1031533
+18,Caquetá,2042,Cabecera Municipal,285352
+18,Caquetá,2042,Centros Poblados y Rural Disperso,166615
+18,Caquetá,2042,Total,451967
+19,Cauca,2042,Cabecera Municipal,606515
+19,Cauca,2042,Centros Poblados y Rural Disperso,1142186
+19,Cauca,2042,Total,1748701
+20,Cesar,2042,Cabecera Municipal,1366518
+20,Cesar,2042,Centros Poblados y Rural Disperso,430380
+20,Cesar,2042,Total,1796898
+23,Córdoba,2042,Cabecera Municipal,1204758
+23,Córdoba,2042,Centros Poblados y Rural Disperso,1038635
+23,Córdoba,2042,Total,2243393
+25,Cundinamarca,2042,Cabecera Municipal,3738431
+25,Cundinamarca,2042,Centros Poblados y Rural Disperso,772314
+25,Cundinamarca,2042,Total,4510745
+27,Chocó,2042,Cabecera Municipal,287726
+27,Chocó,2042,Centros Poblados y Rural Disperso,374638
+27,Chocó,2042,Total,662364
+41,Huila,2042,Cabecera Municipal,836082
+41,Huila,2042,Centros Poblados y Rural Disperso,520827
+41,Huila,2042,Total,1356909
+44,La Guajira,2042,Cabecera Municipal,660598
+44,La Guajira,2042,Centros Poblados y Rural Disperso,614073
+44,La Guajira,2042,Total,1274671
+47,Magdalena,2042,Cabecera Municipal,1137908
+47,Magdalena,2042,Centros Poblados y Rural Disperso,538375
+47,Magdalena,2042,Total,1676283
+50,Meta,2042,Cabecera Municipal,936065
+50,Meta,2042,Centros Poblados y Rural Disperso,332193
+50,Meta,2042,Total,1268258
+52,Nariño,2042,Cabecera Municipal,783066
+52,Nariño,2042,Centros Poblados y Rural Disperso,989551
+52,Nariño,2042,Total,1772617
+54,Norte de Santander,2042,Cabecera Municipal,1373189
+54,Norte de Santander,2042,Centros Poblados y Rural Disperso,401358
+54,Norte de Santander,2042,Total,1774547
+63,Quindío,2042,Cabecera Municipal,460197
+63,Quindío,2042,Centros Poblados y Rural Disperso,64661
+63,Quindío,2042,Total,524858
+66,Risaralda,2042,Cabecera Municipal,838582
+66,Risaralda,2042,Centros Poblados y Rural Disperso,164574
+66,Risaralda,2042,Total,1003156
+68,Santander,2042,Cabecera Municipal,1985892
+68,Santander,2042,Centros Poblados y Rural Disperso,509288
+68,Santander,2042,Total,2495180
+70,Sucre,2042,Cabecera Municipal,754186
+70,Sucre,2042,Centros Poblados y Rural Disperso,436140
+70,Sucre,2042,Total,1190326
+73,Tolima,2042,Cabecera Municipal,972976
+73,Tolima,2042,Centros Poblados y Rural Disperso,408790
+73,Tolima,2042,Total,1381766
+76,Valle del Cauca,2042,Cabecera Municipal,3861073
+76,Valle del Cauca,2042,Centros Poblados y Rural Disperso,725077
+76,Valle del Cauca,2042,Total,4586150
+81,Arauca,2042,Cabecera Municipal,171844
+81,Arauca,2042,Centros Poblados y Rural Disperso,103464
+81,Arauca,2042,Total,275308
+85,Casanare,2042,Cabecera Municipal,395663
+85,Casanare,2042,Centros Poblados y Rural Disperso,130430
+85,Casanare,2042,Total,526093
+86,Putumayo,2042,Cabecera Municipal,228569
+86,Putumayo,2042,Centros Poblados y Rural Disperso,213410
+86,Putumayo,2042,Total,441979
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2042,Cabecera Municipal,50575
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2042,Centros Poblados y Rural Disperso,13112
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2042,Total,63687
+91,Amazonas,2042,Cabecera Municipal,45906
+91,Amazonas,2042,Centros Poblados y Rural Disperso,45518
+91,Amazonas,2042,Total,91424
+94,Guainía,2042,Cabecera Municipal,33647
+94,Guainía,2042,Centros Poblados y Rural Disperso,41276
+94,Guainía,2042,Total,74923
+95,Guaviare,2042,Cabecera Municipal,42588
+95,Guaviare,2042,Centros Poblados y Rural Disperso,40660
+95,Guaviare,2042,Total,83248
+97,Vaupés,2042,Cabecera Municipal,9790
+97,Vaupés,2042,Centros Poblados y Rural Disperso,38311
+97,Vaupés,2042,Total,48101
+99,Vichada,2042,Cabecera Municipal,34479
+99,Vichada,2042,Centros Poblados y Rural Disperso,189457
+99,Vichada,2042,Total,223936
+05,Antioquia,2043,Cabecera Municipal,5776813
+05,Antioquia,2043,Centros Poblados y Rural Disperso,1372557
+05,Antioquia,2043,Total,7149370
+08,Atlántico,2043,Cabecera Municipal,2938018
+08,Atlántico,2043,Centros Poblados y Rural Disperso,159788
+08,Atlántico,2043,Total,3097806
+11,"Bogotá, D.C.",2043,Cabecera Municipal,7477386
+11,"Bogotá, D.C.",2043,Centros Poblados y Rural Disperso,31339
+11,"Bogotá, D.C.",2043,Total,7508725
+13,Bolívar,2043,Cabecera Municipal,1683964
+13,Bolívar,2043,Centros Poblados y Rural Disperso,627594
+13,Bolívar,2043,Total,2311558
+15,Boyacá,2043,Cabecera Municipal,925487
+15,Boyacá,2043,Centros Poblados y Rural Disperso,415697
+15,Boyacá,2043,Total,1341184
+17,Caldas,2043,Cabecera Municipal,843875
+17,Caldas,2043,Centros Poblados y Rural Disperso,181772
+17,Caldas,2043,Total,1025647
+18,Caquetá,2043,Cabecera Municipal,284460
+18,Caquetá,2043,Centros Poblados y Rural Disperso,167678
+18,Caquetá,2043,Total,452138
+19,Cauca,2043,Cabecera Municipal,607094
+19,Cauca,2043,Centros Poblados y Rural Disperso,1144366
+19,Cauca,2043,Total,1751460
+20,Cesar,2043,Cabecera Municipal,1378502
+20,Cesar,2043,Centros Poblados y Rural Disperso,432878
+20,Cesar,2043,Total,1811380
+23,Córdoba,2043,Cabecera Municipal,1211442
+23,Córdoba,2043,Centros Poblados y Rural Disperso,1040378
+23,Córdoba,2043,Total,2251820
+25,Cundinamarca,2043,Cabecera Municipal,3789844
+25,Cundinamarca,2043,Centros Poblados y Rural Disperso,767295
+25,Cundinamarca,2043,Total,4557139
+27,Chocó,2043,Cabecera Municipal,288774
+27,Chocó,2043,Centros Poblados y Rural Disperso,375885
+27,Chocó,2043,Total,664659
+41,Huila,2043,Cabecera Municipal,839076
+41,Huila,2043,Centros Poblados y Rural Disperso,521999
+41,Huila,2043,Total,1361075
+44,La Guajira,2043,Cabecera Municipal,665379
+44,La Guajira,2043,Centros Poblados y Rural Disperso,618320
+44,La Guajira,2043,Total,1283699
+47,Magdalena,2043,Cabecera Municipal,1139576
+47,Magdalena,2043,Centros Poblados y Rural Disperso,538917
+47,Magdalena,2043,Total,1678493
+50,Meta,2043,Cabecera Municipal,937363
+50,Meta,2043,Centros Poblados y Rural Disperso,334188
+50,Meta,2043,Total,1271551
+52,Nariño,2043,Cabecera Municipal,782638
+52,Nariño,2043,Centros Poblados y Rural Disperso,988638
+52,Nariño,2043,Total,1771276
+54,Norte de Santander,2043,Cabecera Municipal,1374012
+54,Norte de Santander,2043,Centros Poblados y Rural Disperso,401359
+54,Norte de Santander,2043,Total,1775371
+63,Quindío,2043,Cabecera Municipal,456890
+63,Quindío,2043,Centros Poblados y Rural Disperso,63745
+63,Quindío,2043,Total,520635
+66,Risaralda,2043,Cabecera Municipal,837371
+66,Risaralda,2043,Centros Poblados y Rural Disperso,161565
+66,Risaralda,2043,Total,998936
+68,Santander,2043,Cabecera Municipal,1989258
+68,Santander,2043,Centros Poblados y Rural Disperso,505394
+68,Santander,2043,Total,2494652
+70,Sucre,2043,Cabecera Municipal,757834
+70,Sucre,2043,Centros Poblados y Rural Disperso,438150
+70,Sucre,2043,Total,1195984
+73,Tolima,2043,Cabecera Municipal,970796
+73,Tolima,2043,Centros Poblados y Rural Disperso,405109
+73,Tolima,2043,Total,1375905
+76,Valle del Cauca,2043,Cabecera Municipal,3839531
+76,Valle del Cauca,2043,Centros Poblados y Rural Disperso,724829
+76,Valle del Cauca,2043,Total,4564360
+81,Arauca,2043,Cabecera Municipal,170726
+81,Arauca,2043,Centros Poblados y Rural Disperso,103336
+81,Arauca,2043,Total,274062
+85,Casanare,2043,Cabecera Municipal,396931
+85,Casanare,2043,Centros Poblados y Rural Disperso,130517
+85,Casanare,2043,Total,527448
+86,Putumayo,2043,Cabecera Municipal,228621
+86,Putumayo,2043,Centros Poblados y Rural Disperso,214562
+86,Putumayo,2043,Total,443183
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2043,Cabecera Municipal,50629
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2043,Centros Poblados y Rural Disperso,13035
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2043,Total,63664
+91,Amazonas,2043,Cabecera Municipal,45662
+91,Amazonas,2043,Centros Poblados y Rural Disperso,45773
+91,Amazonas,2043,Total,91435
+94,Guainía,2043,Cabecera Municipal,33619
+94,Guainía,2043,Centros Poblados y Rural Disperso,41739
+94,Guainía,2043,Total,75358
+95,Guaviare,2043,Cabecera Municipal,42181
+95,Guaviare,2043,Centros Poblados y Rural Disperso,40855
+95,Guaviare,2043,Total,83036
+97,Vaupés,2043,Cabecera Municipal,9716
+97,Vaupés,2043,Centros Poblados y Rural Disperso,38559
+97,Vaupés,2043,Total,48275
+99,Vichada,2043,Cabecera Municipal,34517
+99,Vichada,2043,Centros Poblados y Rural Disperso,192393
+99,Vichada,2043,Total,226910
+05,Antioquia,2044,Cabecera Municipal,5773862
+05,Antioquia,2044,Centros Poblados y Rural Disperso,1362592
+05,Antioquia,2044,Total,7136454
+08,Atlántico,2044,Cabecera Municipal,2943879
+08,Atlántico,2044,Centros Poblados y Rural Disperso,160303
+08,Atlántico,2044,Total,3104182
+11,"Bogotá, D.C.",2044,Cabecera Municipal,7428007
+11,"Bogotá, D.C.",2044,Centros Poblados y Rural Disperso,30939
+11,"Bogotá, D.C.",2044,Total,7458946
+13,Bolívar,2044,Cabecera Municipal,1683009
+13,Bolívar,2044,Centros Poblados y Rural Disperso,628083
+13,Bolívar,2044,Total,2311092
+15,Boyacá,2044,Cabecera Municipal,931874
+15,Boyacá,2044,Centros Poblados y Rural Disperso,408837
+15,Boyacá,2044,Total,1340711
+17,Caldas,2044,Cabecera Municipal,841345
+17,Caldas,2044,Centros Poblados y Rural Disperso,178092
+17,Caldas,2044,Total,1019437
+18,Caquetá,2044,Cabecera Municipal,283578
+18,Caquetá,2044,Centros Poblados y Rural Disperso,168703
+18,Caquetá,2044,Total,452281
+19,Cauca,2044,Cabecera Municipal,607482
+19,Cauca,2044,Centros Poblados y Rural Disperso,1146054
+19,Cauca,2044,Total,1753536
+20,Cesar,2044,Cabecera Municipal,1390101
+20,Cesar,2044,Centros Poblados y Rural Disperso,435245
+20,Cesar,2044,Total,1825346
+23,Córdoba,2044,Cabecera Municipal,1217868
+23,Córdoba,2044,Centros Poblados y Rural Disperso,1041886
+23,Córdoba,2044,Total,2259754
+25,Cundinamarca,2044,Cabecera Municipal,3840126
+25,Cundinamarca,2044,Centros Poblados y Rural Disperso,761773
+25,Cundinamarca,2044,Total,4601899
+27,Chocó,2044,Cabecera Municipal,289686
+27,Chocó,2044,Centros Poblados y Rural Disperso,376979
+27,Chocó,2044,Total,666665
+41,Huila,2044,Cabecera Municipal,841800
+41,Huila,2044,Centros Poblados y Rural Disperso,523007
+41,Huila,2044,Total,1364807
+44,La Guajira,2044,Cabecera Municipal,669889
+44,La Guajira,2044,Centros Poblados y Rural Disperso,622495
+44,La Guajira,2044,Total,1292384
+47,Magdalena,2044,Cabecera Municipal,1141019
+47,Magdalena,2044,Centros Poblados y Rural Disperso,539272
+47,Magdalena,2044,Total,1680291
+50,Meta,2044,Cabecera Municipal,938460
+50,Meta,2044,Centros Poblados y Rural Disperso,336202
+50,Meta,2044,Total,1274662
+52,Nariño,2044,Cabecera Municipal,781987
+52,Nariño,2044,Centros Poblados y Rural Disperso,987500
+52,Nariño,2044,Total,1769487
+54,Norte de Santander,2044,Cabecera Municipal,1374781
+54,Norte de Santander,2044,Centros Poblados y Rural Disperso,401204
+54,Norte de Santander,2044,Total,1775985
+63,Quindío,2044,Cabecera Municipal,453365
+63,Quindío,2044,Centros Poblados y Rural Disperso,62794
+63,Quindío,2044,Total,516159
+66,Risaralda,2044,Cabecera Municipal,835690
+66,Risaralda,2044,Centros Poblados y Rural Disperso,158483
+66,Risaralda,2044,Total,994173
+68,Santander,2044,Cabecera Municipal,1992108
+68,Santander,2044,Centros Poblados y Rural Disperso,501423
+68,Santander,2044,Total,2493531
+70,Sucre,2044,Cabecera Municipal,761191
+70,Sucre,2044,Centros Poblados y Rural Disperso,439969
+70,Sucre,2044,Total,1201160
+73,Tolima,2044,Cabecera Municipal,968223
+73,Tolima,2044,Centros Poblados y Rural Disperso,401338
+73,Tolima,2044,Total,1369561
+76,Valle del Cauca,2044,Cabecera Municipal,3816655
+76,Valle del Cauca,2044,Centros Poblados y Rural Disperso,724425
+76,Valle del Cauca,2044,Total,4541080
+81,Arauca,2044,Cabecera Municipal,169554
+81,Arauca,2044,Centros Poblados y Rural Disperso,103181
+81,Arauca,2044,Total,272735
+85,Casanare,2044,Cabecera Municipal,397966
+85,Casanare,2044,Centros Poblados y Rural Disperso,130546
+85,Casanare,2044,Total,528512
+86,Putumayo,2044,Cabecera Municipal,228567
+86,Putumayo,2044,Centros Poblados y Rural Disperso,215676
+86,Putumayo,2044,Total,444243
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2044,Cabecera Municipal,50676
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2044,Centros Poblados y Rural Disperso,12950
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2044,Total,63626
+91,Amazonas,2044,Cabecera Municipal,45402
+91,Amazonas,2044,Centros Poblados y Rural Disperso,46038
+91,Amazonas,2044,Total,91440
+94,Guainía,2044,Cabecera Municipal,33540
+94,Guainía,2044,Centros Poblados y Rural Disperso,42194
+94,Guainía,2044,Total,75734
+95,Guaviare,2044,Cabecera Municipal,41771
+95,Guaviare,2044,Centros Poblados y Rural Disperso,41019
+95,Guaviare,2044,Total,82790
+97,Vaupés,2044,Cabecera Municipal,9627
+97,Vaupés,2044,Centros Poblados y Rural Disperso,38803
+97,Vaupés,2044,Total,48430
+99,Vichada,2044,Cabecera Municipal,34550
+99,Vichada,2044,Centros Poblados y Rural Disperso,195143
+99,Vichada,2044,Total,229693
+05,Antioquia,2045,Cabecera Municipal,5768777
+05,Antioquia,2045,Centros Poblados y Rural Disperso,1352268
+05,Antioquia,2045,Total,7121045
+08,Atlántico,2045,Cabecera Municipal,2949106
+08,Atlántico,2045,Centros Poblados y Rural Disperso,160833
+08,Atlántico,2045,Total,3109939
+11,"Bogotá, D.C.",2045,Cabecera Municipal,7376260
+11,"Bogotá, D.C.",2045,Centros Poblados y Rural Disperso,30510
+11,"Bogotá, D.C.",2045,Total,7406770
+13,Bolívar,2045,Cabecera Municipal,1681933
+13,Bolívar,2045,Centros Poblados y Rural Disperso,628285
+13,Bolívar,2045,Total,2310218
+15,Boyacá,2045,Cabecera Municipal,937764
+15,Boyacá,2045,Centros Poblados y Rural Disperso,401737
+15,Boyacá,2045,Total,1339501
+17,Caldas,2045,Cabecera Municipal,838252
+17,Caldas,2045,Centros Poblados y Rural Disperso,174379
+17,Caldas,2045,Total,1012631
+18,Caquetá,2045,Cabecera Municipal,282654
+18,Caquetá,2045,Centros Poblados y Rural Disperso,169777
+18,Caquetá,2045,Total,452431
+19,Cauca,2045,Cabecera Municipal,607687
+19,Cauca,2045,Centros Poblados y Rural Disperso,1147334
+19,Cauca,2045,Total,1755021
+20,Cesar,2045,Cabecera Municipal,1401440
+20,Cesar,2045,Centros Poblados y Rural Disperso,437437
+20,Cesar,2045,Total,1838877
+23,Córdoba,2045,Cabecera Municipal,1224019
+23,Córdoba,2045,Centros Poblados y Rural Disperso,1043064
+23,Córdoba,2045,Total,2267083
+25,Cundinamarca,2045,Cabecera Municipal,3889340
+25,Cundinamarca,2045,Centros Poblados y Rural Disperso,756228
+25,Cundinamarca,2045,Total,4645568
+27,Chocó,2045,Cabecera Municipal,290606
+27,Chocó,2045,Centros Poblados y Rural Disperso,377967
+27,Chocó,2045,Total,668573
+41,Huila,2045,Cabecera Municipal,844323
+41,Huila,2045,Centros Poblados y Rural Disperso,523828
+41,Huila,2045,Total,1368151
+44,La Guajira,2045,Cabecera Municipal,674150
+44,La Guajira,2045,Centros Poblados y Rural Disperso,626613
+44,La Guajira,2045,Total,1300763
+47,Magdalena,2045,Cabecera Municipal,1142068
+47,Magdalena,2045,Centros Poblados y Rural Disperso,539494
+47,Magdalena,2045,Total,1681562
+50,Meta,2045,Cabecera Municipal,939321
+50,Meta,2045,Centros Poblados y Rural Disperso,338050
+50,Meta,2045,Total,1277371
+52,Nariño,2045,Cabecera Municipal,781155
+52,Nariño,2045,Centros Poblados y Rural Disperso,986070
+52,Nariño,2045,Total,1767225
+54,Norte de Santander,2045,Cabecera Municipal,1375508
+54,Norte de Santander,2045,Centros Poblados y Rural Disperso,400931
+54,Norte de Santander,2045,Total,1776439
+63,Quindío,2045,Cabecera Municipal,449709
+63,Quindío,2045,Centros Poblados y Rural Disperso,61807
+63,Quindío,2045,Total,511516
+66,Risaralda,2045,Cabecera Municipal,833609
+66,Risaralda,2045,Centros Poblados y Rural Disperso,155343
+66,Risaralda,2045,Total,988952
+68,Santander,2045,Cabecera Municipal,1994272
+68,Santander,2045,Centros Poblados y Rural Disperso,497416
+68,Santander,2045,Total,2491688
+70,Sucre,2045,Cabecera Municipal,764276
+70,Sucre,2045,Centros Poblados y Rural Disperso,441723
+70,Sucre,2045,Total,1205999
+73,Tolima,2045,Cabecera Municipal,965152
+73,Tolima,2045,Centros Poblados y Rural Disperso,397488
+73,Tolima,2045,Total,1362640
+76,Valle del Cauca,2045,Cabecera Municipal,3792474
+76,Valle del Cauca,2045,Centros Poblados y Rural Disperso,723812
+76,Valle del Cauca,2045,Total,4516286
+81,Arauca,2045,Cabecera Municipal,168331
+81,Arauca,2045,Centros Poblados y Rural Disperso,102968
+81,Arauca,2045,Total,271299
+85,Casanare,2045,Cabecera Municipal,398791
+85,Casanare,2045,Centros Poblados y Rural Disperso,130647
+85,Casanare,2045,Total,529438
+86,Putumayo,2045,Cabecera Municipal,228413
+86,Putumayo,2045,Centros Poblados y Rural Disperso,216745
+86,Putumayo,2045,Total,445158
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2045,Cabecera Municipal,50716
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2045,Centros Poblados y Rural Disperso,12888
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2045,Total,63604
+91,Amazonas,2045,Cabecera Municipal,45107
+91,Amazonas,2045,Centros Poblados y Rural Disperso,46266
+91,Amazonas,2045,Total,91373
+94,Guainía,2045,Cabecera Municipal,33455
+94,Guainía,2045,Centros Poblados y Rural Disperso,42612
+94,Guainía,2045,Total,76067
+95,Guaviare,2045,Cabecera Municipal,41342
+95,Guaviare,2045,Centros Poblados y Rural Disperso,41222
+95,Guaviare,2045,Total,82564
+97,Vaupés,2045,Cabecera Municipal,9520
+97,Vaupés,2045,Centros Poblados y Rural Disperso,39045
+97,Vaupés,2045,Total,48565
+99,Vichada,2045,Cabecera Municipal,34574
+99,Vichada,2045,Centros Poblados y Rural Disperso,197771
+99,Vichada,2045,Total,232345
+05,Antioquia,2046,Total,7103144
+08,Atlántico,2046,Total,3115136
+11,"Bogotá, D.C.",2046,Total,7352279
+13,Bolívar,2046,Total,2308793
+15,Boyacá,2046,Total,1337839
+17,Caldas,2046,Total,1005506
+18,Caquetá,2046,Total,452448
+19,Cauca,2046,Total,1755918
+20,Cesar,2046,Total,1851978
+23,Córdoba,2046,Total,2273810
+25,Cundinamarca,2046,Total,4687960
+27,Chocó,2046,Total,670351
+41,Huila,2046,Total,1371056
+44,La Guajira,2046,Total,1308930
+47,Magdalena,2046,Total,1682380
+50,Meta,2046,Total,1279804
+52,Nariño,2046,Total,1764457
+54,Norte de Santander,2046,Total,1776529
+63,Quindío,2046,Total,506554
+66,Risaralda,2046,Total,983308
+68,Santander,2046,Total,2489053
+70,Sucre,2046,Total,1210549
+73,Tolima,2046,Total,1355231
+76,Valle del Cauca,2046,Total,4490067
+81,Arauca,2046,Total,269776
+85,Casanare,2046,Total,530142
+86,Putumayo,2046,Total,445929
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2046,Total,63571
+91,Amazonas,2046,Total,91316
+94,Guainía,2046,Total,76350
+95,Guaviare,2046,Total,82324
+97,Vaupés,2046,Total,48739
+99,Vichada,2046,Total,234818
+05,Antioquia,2047,Total,7082876
+08,Atlántico,2047,Total,3119607
+11,"Bogotá, D.C.",2047,Total,7295524
+13,Bolívar,2047,Total,2307283
+15,Boyacá,2047,Total,1335691
+17,Caldas,2047,Total,997843
+18,Caquetá,2047,Total,452407
+19,Cauca,2047,Total,1756260
+20,Cesar,2047,Total,1864540
+23,Córdoba,2047,Total,2279988
+25,Cundinamarca,2047,Total,4728889
+27,Chocó,2047,Total,672024
+41,Huila,2047,Total,1373596
+44,La Guajira,2047,Total,1316722
+47,Magdalena,2047,Total,1682650
+50,Meta,2047,Total,1281989
+52,Nariño,2047,Total,1761261
+54,Norte de Santander,2047,Total,1776388
+63,Quindío,2047,Total,501476
+66,Risaralda,2047,Total,977267
+68,Santander,2047,Total,2485855
+70,Sucre,2047,Total,1214654
+73,Tolima,2047,Total,1347239
+76,Valle del Cauca,2047,Total,4462396
+81,Arauca,2047,Total,268133
+85,Casanare,2047,Total,530731
+86,Putumayo,2047,Total,446494
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2047,Total,63502
+91,Amazonas,2047,Total,91243
+94,Guainía,2047,Total,76667
+95,Guaviare,2047,Total,82018
+97,Vaupés,2047,Total,48867
+99,Vichada,2047,Total,237099
+05,Antioquia,2048,Total,7061324
+08,Atlántico,2048,Total,3123433
+11,"Bogotá, D.C.",2048,Total,7236560
+13,Bolívar,2048,Total,2305136
+15,Boyacá,2048,Total,1332958
+17,Caldas,2048,Total,989876
+18,Caquetá,2048,Total,452321
+19,Cauca,2048,Total,1755875
+20,Cesar,2048,Total,1876709
+23,Córdoba,2048,Total,2285511
+25,Cundinamarca,2048,Total,4768416
+27,Chocó,2048,Total,672592
+41,Huila,2048,Total,1375785
+44,La Guajira,2048,Total,1324236
+47,Magdalena,2048,Total,1682519
+50,Meta,2048,Total,1283897
+52,Nariño,2048,Total,1757613
+54,Norte de Santander,2048,Total,1775800
+63,Quindío,2048,Total,496172
+66,Risaralda,2048,Total,970790
+68,Santander,2048,Total,2482181
+70,Sucre,2048,Total,1218535
+73,Tolima,2048,Total,1338812
+76,Valle del Cauca,2048,Total,4433325
+81,Arauca,2048,Total,266438
+85,Casanare,2048,Total,531033
+86,Putumayo,2048,Total,446921
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2048,Total,63440
+91,Amazonas,2048,Total,91172
+94,Guainía,2048,Total,76858
+95,Guaviare,2048,Total,81771
+97,Vaupés,2048,Total,49019
+99,Vichada,2048,Total,239270
+05,Antioquia,2049,Total,7036496
+08,Atlántico,2049,Total,3126605
+11,"Bogotá, D.C.",2049,Total,7175532
+13,Bolívar,2049,Total,2302623
+15,Boyacá,2049,Total,1330033
+17,Caldas,2049,Total,981514
+18,Caquetá,2049,Total,452200
+19,Cauca,2049,Total,1754998
+20,Cesar,2049,Total,1888397
+23,Córdoba,2049,Total,2290555
+25,Cundinamarca,2049,Total,4806374
+27,Chocó,2049,Total,673948
+41,Huila,2049,Total,1377515
+44,La Guajira,2049,Total,1331380
+47,Magdalena,2049,Total,1681922
+50,Meta,2049,Total,1285542
+52,Nariño,2049,Total,1753443
+54,Norte de Santander,2049,Total,1775021
+63,Quindío,2049,Total,490768
+66,Risaralda,2049,Total,963954
+68,Santander,2049,Total,2477610
+70,Sucre,2049,Total,1221961
+73,Tolima,2049,Total,1329869
+76,Valle del Cauca,2049,Total,4402958
+81,Arauca,2049,Total,264590
+85,Casanare,2049,Total,531141
+86,Putumayo,2049,Total,447301
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2049,Total,63405
+91,Amazonas,2049,Total,91020
+94,Guainía,2049,Total,77103
+95,Guaviare,2049,Total,81488
+97,Vaupés,2049,Total,49144
+99,Vichada,2049,Total,241247
+05,Antioquia,2050,Total,7009537
+08,Atlántico,2050,Total,3129154
+11,"Bogotá, D.C.",2050,Total,7112442
+13,Bolívar,2050,Total,2299543
+15,Boyacá,2050,Total,1326466
+17,Caldas,2050,Total,972814
+18,Caquetá,2050,Total,452026
+19,Cauca,2050,Total,1753565
+20,Cesar,2050,Total,1899579
+23,Córdoba,2050,Total,2294971
+25,Cundinamarca,2050,Total,4842873
+27,Chocó,2050,Total,675143
+41,Huila,2050,Total,1378928
+44,La Guajira,2050,Total,1338301
+47,Magdalena,2050,Total,1680900
+50,Meta,2050,Total,1286877
+52,Nariño,2050,Total,1748916
+54,Norte de Santander,2050,Total,1773870
+63,Quindío,2050,Total,485150
+66,Risaralda,2050,Total,956846
+68,Santander,2050,Total,2472425
+70,Sucre,2050,Total,1225112
+73,Tolima,2050,Total,1320600
+76,Valle del Cauca,2050,Total,4371231
+81,Arauca,2050,Total,262795
+85,Casanare,2050,Total,531026
+86,Putumayo,2050,Total,447432
+88,"Archipiélago de San Andrés, Providencia y Santa Catalina",2050,Total,63319
+91,Amazonas,2050,Total,90872
+94,Guainía,2050,Total,77250
+95,Guaviare,2050,Total,81222
+97,Vaupés,2050,Total,49250
+99,Vichada,2050,Total,243055
