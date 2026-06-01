@@ -7,3 +7,285 @@ format:
     code-fold: true
     embed-resources: true
 ---
+
+```{r}
+#| label: load-r-libraries
+#| message: false
+library(sf)
+library(tidyverse)
+library(ggspatial)
+library(rnaturalearth)
+```
+
+# Learning objectives
+
+- Identify reliable sources for finding spatial data online
+- Understand basic principles for evaluating data quality using metadata
+- Make informed choices between common spatial data formats:
+
+  - Shapefile
+  - GeoJSON
+  - GeoPackage
+
+- Load vector spatial data from your own computer into R using `st_read()`
+- Load simple tabular data using `read_csv()`
+
+- Explain why working directories are crucial for loading files easily
+
+- Perform basic data cleaning tasks on `sf` objects using `dplyr` functions
+
+- Join tabular data to your spatial data based on a common identifier using `left_join`
+
+- Save you cleaned spatial data to a file using `st_write()`
+
+# Concepts: Finding your ingredients and checking quality
+
+## Where to find spatial data: reliable sources
+
+### Natural earth
+
+- Global datasets at various scales
+- Public domain 
+- Might not have super-detailed local data
+
+### OpenStreetMap
+
+- A collaborative project
+- Amazingly detailed, often the most up-to-date source for features like roads/buildings, global coverage, free to use
+- Data quality varies by region
+
+### GADM
+
+- Database of Global ADministrative Areas
+- Consistent source for administrative boundaries worldwide, differente levels of detail
+- Boundaries might not perfectly match official national sources in every single case
+
+### Government geospatial portals
+
+In the case of Colombia:
+
+- [Colombia en mapas](https://www.colombiaenmapas.gov.co/)
+
+  - Iniciar sesion > Iniciar sesión con Google
+  - VI > [Ver a CeM v1](https://www.colombiaenmapas.gov.co/ndexv1.html)
+
+    - Filtrar > Entidad Territorial > Colombia
+    - Temáticas > Límites > Departamentos de Colombia
+
+      - Formato de descargar: GDB (`.gdb`), Geopackage (`.gpkg`), Shapefile
+
+      - Use Geopackage (it is highly recommended)
+
+#### Search strategy
+
+- Need general world/country/state boundaries? Start with `rnaturalearth`
+- Need detailed streets, buildings, cafes, parks? Start with `osmdata`
+- need official local data? In the case of Colombia go to [Colombia en mapas](https://www.colombiaenmapas.gov.co/) 
+
+### Is this data any good? Metadata and Quality Checks
+
+- Source: 
+
+  - Who created the data? 
+  - Is the source trustworthy for your purpose
+
+  **Answer**: For the case of Colombia was created by Instituto Geográfico Agustín Codazzi - IGAC, so it is trustworthy 
+
+- Date
+
+  - When was created?
+  - When was it las t updated
+  - It is recent enough for your map?
+
+  **Answer**: It was created in `2025-12-30` and it will be updated in `2026-02-05`
+
+- Description/Abstract
+
+  - What does this data actually represent?
+  - What do the columns in the attribute table mean?
+
+- CRS
+
+  - What coordinate reference system does it use?
+
+- Scale/Resolution
+
+  - At what level of detail was it created?
+
+- Accuracy: 
+
+  - Does the provider mention how accurate the locations or attributes are believed to be?
+
+- Limitations/known issues: 
+
+  - Are there any problems the creator is aware of?
+
+- LIcense/Use Contraints
+
+  - How are you allowed to use this data?
+  - Do you need to five credit?
+  - Can you use it for commercial purposes?
+
+  **Answer**: Licencia: CC BY 4.0 
+
+### Choosing Data Formats 
+
+Simple rule: If available prefer GeoPackage `.gpkg`
+
+### Ethical considerations: Data SElection & Bias
+
+- Source Bias:
+
+  - Whose data is it?
+  - Does the source have a perspective?
+  - Does it represent all grouos/areas fairly?
+
+- Representation:
+
+  - Does the dataset accurately represent the phenomenom?
+  - Are certain categories oversimplified?
+  Does it exclude important groups?
+
+- Privacy
+
+  - Does the data contain potentially sensitive location information about individuals?
+
+# Hands-on: Loading and Cleaning Your Own data
+
+## Import 
+
+```{r}
+#| message: false
+#| results: hide
+depart_col <- st_read(
+  dsn = "../000_data/colombia/departamentos-de-colombia_2025-12-30.gpkg"
+)
+mun_col <- st_read(
+  dsn = "../000_data/colombia/municipios-de-colombia-2025-12-30.gpkg"
+)
+
+world_boundaries_loaded <- st_read(
+  dsn = "../000_data/mapping-worlds-with-r/chapter-3/world_boundaries.gpkg"
+)
+country_indicators_loaded <- read_csv(
+  file = "../000_data/mapping-worlds-with-r/chapter-3/country_indicators.csv"
+)
+```
+
+## CRS
+
+```{r}
+st_crs(depart_col)
+```
+
+## Visualization
+
+```{r}
+#| label: fig-depart-col
+#| fig-cap: Colombian departments
+depart_col |>
+  ggplot() +
+  geom_sf(
+    aes(geometry = SHAPE)
+  ) +
+  annotation_scale(
+    location = "bl"
+  ) +
+  annotation_north_arrow(
+    location = "tr"
+  ) +
+  coord_sf(datum = st_crs(x = 4626)) +
+  theme_minimal()
+```
+
+```{r}
+#| label: fig-mun-col
+#| fig-cap: Colombian municipalities
+mun_col |>
+  ggplot() +
+  geom_sf(
+    aes(geometry = SHAPE)
+  )
+```
+
+## Basic data cleaning with `dplyr`
+
+### Select and rename
+
+```{r}
+world_selected <- world_boundaries_loaded |>
+  select(
+    NAME_ENGL,
+    ISO3_CODE,
+    geom
+  )
+
+world_remaned <- world_selected |>
+  rename(
+    country_name = NAME_ENGL,
+    iso3 = ISO3_CODE,
+    geometry = geom
+  )
+
+world_ne <- ne_countries(
+  scale = "medium",
+  returnclass = "sf"
+) |>
+  select(
+    adm0_a3,
+    continent
+  ) |>
+  st_drop_geometry()
+```
+
+### Join
+
+```{r}
+world_remaned_with_cont <- world_remaned |>
+  left_join(
+    y = world_ne,
+    by = join_by(iso3 == adm0_a3)
+  )
+
+world_data_joined <- world_remaned |>
+  left_join(
+    y = country_indicators_loaded,
+    by = join_by(iso3 == iso3c)
+  )
+```
+
+### Filter
+
+```{r}
+africa_only <- world_remaned_with_cont |>
+  filter(continent == "Africa")
+```
+
+#### Check if `geometry` is empty
+
+```{r}
+africa_only |>
+  filter(st_is_empty(geometry))
+
+world_data_joined |>
+  filter(st_is_empty(geometry))
+```
+
+#### Check if `geometry` is valid
+
+```{r}
+africa_only |>
+  st_is_valid()
+
+world_data_joined |>
+  st_is_valid()
+```
+
+# Import
+
+```{r}
+st_read(
+  dsn = "../000_data/mapping-worlds-with-r/chapter-3/world_data_cleaned_joined.gpkg"
+) |>
+  glimpse()
+```

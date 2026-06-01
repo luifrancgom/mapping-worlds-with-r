@@ -133,6 +133,71 @@ How do we mathematically translate coordinates from the curved datum surface ont
 
     **Pending**
 
+**Note 1**: See [Compare map projections](https://map-projections.net/) and [Map Projection Explorer](https://www.geo-projections.com/)
+
+**Note 2**: See also [Introducing Coordinate Systems and Map Projections](https://youtu.be/PICwxT0fTHQ?si=75aFQfmS1iqj1hTm)
+
+##### 2 Kinds of horizontal coordinate systems
+
+###### Geographic coordinate systems
+
+- 3D spherical surce
+
+- Point P has:
+
+  - Longitude: -80°E
+  - Latitude: -50° N
+
+- Needs a:
+
+  - Datum: a specific model of the earth's shape
+  - Ellipsoid: The mathematical sphere/oval
+  - Use units: Degrees (Latitude/Longitude)
+
+###### Projected coordinate system
+
+Start using a grid:
+
+- Easting (x): Distance from a vertical center 
+- Northing (y): Distance from a horizontal center 
+- Origin (0,0): The meeting point of these lines
+
+###### 2 ways to specify a coordinate system
+
+- Well-known ID (wkid)
+- Well-known text (wkt)
+
+##### Vertical coordinate systems (VCS)
+
+- Height
+
+  - How hight is mount everest?
+
+- Defines the origin for height or depth
+
+- The origin for height or depth
+
+  - Geometric model
+  - Gravity-related model
+
+##### Map projections
+
+- Projecting to a different coordinate system
+
+- Why are there so many map projections?
+
+  - Shape
+  - Area
+  - Direction
+  - Distance
+
+- Which projection is the best?
+
+  - Albers equal-area
+  - Stereographic
+  - Azimuthal equidistant
+  - Transverse Mercator
+
 #### Why CRS is critical
 
 - Alignment: data layers must be in the same CRS to overlay correctly on a map
