@@ -1,0 +1,60 @@
+---
+title: Finding and preparing spatial data
+format:
+  html:
+    toc: true
+    number-sections: true
+    code-fold: true
+    embed-resources: true
+---
+
+```{r}
+#| label: load-r-libraries
+#| message: false
+
+```
+
+# Learning objectives
+
+- Explain what a thematic map is and when to use choropleth map.
+- Understand basic color theory principles for mapping:
+
+  - sequential
+  - diverging
+  - qualitative
+
+- Apply basic map design principles like visual hierarchy
+- Consider accessibility (like color blindness) when choosing map colors
+- Create a basic choropleth map using `ggplot2` and `geom_sf`, mapping data to fill color
+- Understand the layered grammar of `ggplot2` (`ggplot()`, `geom_sf()`, `aes()`, `+`)
+- Add essential map appereance elements like titles, legends and captions using `labs()`
+- Customize map appereance with color scales (`scale_fill_*`) and (`theme_*`)
+- Add scale bars and north arrows using the `ggspatial` package
+
+# Building on previous knowledge
+
+## Concepts: telling stories with maps
+
+### What are thematic maps?
+
+So far, our maps have mostly been **reference maps**: they show where things are. **Thematic maps** go further: they show the spatial **pattern** or **distribution** of a specific **theme** or **variable**
+
+The goal with thematic maps is to use elements like color, size or symbols to represent data values visually, allowing the reader to easily spot geographic patterns, clusters or differences.
+
+### Focus: Choropleth maps
+
+There are many types of thematic maps. In this chapter, we focus on the **choropleth map** (in greek *choros* = area, *plethos* = value):
+
+  - What it is? Uses color shades or patterns withing predefined areas like countries, states, counties to represent a value associated with that entire area.
+
+  - How it works: Typically, darker colors mean higher values and lighter colors mean lower values
+
+  - Best for: showing rates, densities or percentages
+
+  - Why rates/densities? If you color a map by total population, large countries like China or India will always look "highest" just becasue they are big and have many people, even if they are not the most densely populated.
+
+    Coloring the density (people per square kilometer) gives a fairer comparison between areas of different sizes.
+
+Out goal is to create a choropleth map showing population density by country.
+
+### Color kitchen: choosing the right palette
